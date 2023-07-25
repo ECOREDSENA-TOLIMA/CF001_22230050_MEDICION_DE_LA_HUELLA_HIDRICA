@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'La huella hídrica',
+    descripcionCurso:
+      'En este componente formativo se abordan el agua y algunas temáticas que permitirán comprender de forma general la evolución del concepto de huella hídrica y su normatividad, además de los componentes, tipos y metodologías existentes para su medición.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,13 +32,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Protocolos de pruebas y mediciones',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Ciclo hidrológico, usos y calidad',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Normatividad ambiental',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,13 +51,45 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'La huella hídrica',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Evolución del concepto ',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Tipos de huella ',
+            hash: 't_2_2',
+          },
+        ],
       },
+
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Metodología para el cálculo de la huella hídrica',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Water Footprint Network (WFT)',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Norma ISO 14046-2014',
+            hash: 't_3_2',
+          },
+        ],
+      },
+
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Estudios relacionados con la huella hídrica',
         desarrolloContenidos: true,
       },
     ],
