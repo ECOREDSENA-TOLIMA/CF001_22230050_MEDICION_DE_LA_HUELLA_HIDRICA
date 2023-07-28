@@ -29,14 +29,14 @@
             .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F6F6F6; overflow-x: hidden !important")
               p.px-3.pt-1.pb-1 Nota. Mazari-Hiriart, M. (2003).  
 
-        .row.align-items-center.my-3.col-lg-10.m-auto        
-        .col-auto
-          figure
-            img(src='@/assets/curso/temas/1/2.png').m-auto(data-aos="fade-right")
-        .col
-          p(data-aos="fade-up" style="overflow-x: hidden !important") En el caso específico de Colombia, el país cuenta con un patrimonio hídrico importante entre humedales, ríos, lagunas, lagos, ciénagas, arrecifes, y estuarios, etc., siendo uno de los países con mayor oferta hídrica natural, lo que hace que sea catalogado como potencia hídrica mundial como lo indica la principal organización de conservación de la naturaleza a nivel global, WWF.
-          .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
-            p.mb-2.py-2(style="overflow-x: hidden !important") Pero esta riqueza hídrica principalmente por la acción irresponsable y desmesurada del hombre en búsqueda del desarrollo viene siendo afectada y contaminada, presentando alteraciones físicas, químicas y biológicas que generan un modificación en su composición perdiendo sus características naturales y variaciones en el ciclo natural del agua, el cual es denominado ciclo hidrológico que permite identificar la ubicación, distribución y circulación del agua en el planeta.
+          .row.align-items-center.my-3.col-lg-10.m-auto        
+          .col-auto
+            figure
+              img(src='@/assets/curso/temas/1/2.png').m-auto(data-aos="fade-right")
+          .col
+            p(data-aos="fade-up" style="overflow-x: hidden !important") En el caso específico de Colombia, el país cuenta con un patrimonio hídrico importante entre humedales, ríos, lagunas, lagos, ciénagas, arrecifes, y estuarios, etc., siendo uno de los países con mayor oferta hídrica natural, lo que hace que sea catalogado como potencia hídrica mundial como lo indica la principal organización de conservación de la naturaleza a nivel global, WWF.
+            .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
+              p.mb-2.py-2(style="overflow-x: hidden !important") Pero esta riqueza hídrica principalmente por la acción irresponsable y desmesurada del hombre en búsqueda del desarrollo viene siendo afectada y contaminada, presentando alteraciones físicas, químicas y biológicas que generan un modificación en su composición perdiendo sus características naturales y variaciones en el ciclo natural del agua, el cual es denominado ciclo hidrológico que permite identificar la ubicación, distribución y circulación del agua en el planeta.
 
         p.mt-5 Por tanto, es primordial para conservar la vida ya que los seres humanos son dependientes de este líquido vital, realizar uso sostenible una adecuación gestión del recurso hídrico, donde haya una verdadera conciencia sobre los efectos e impactos negativos que se generan sobre el agua por el estilo de vida los productos que se consumen y las formas de producción actual.
         Separador.mt-0
@@ -66,12 +66,12 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/1/5.png', style="padding" )
+              img(src='@/assets/curso/temas/1/5.png',)
           
         p El agua es usada para gran cantidad de finalidades, pero en diversas partes del mundo existe un déficit hídrico debido a que el requerimiento de agua es mayor a la oferta hídrica existente, lo que hace que la cuantificación de la huella hídrica tenga gran relevancia y ayude a conservar la disponibilidad del recurso hídrico, ya que de acuerdo a Cirelli, A. F. (2012), el sector económico que mayor demanda de agua requiere es la agricultura, le sigue la creciente demanda para el turismo y finalmente el uso urbano e industrial, lo cual evidencia que la necesidad de acceso a este líquido vital aumenta cada día y a la vez es menos disponible. 
       
-      .col-md.tarjeta.color-acento-contenido.p-5
-        .row.justify-content-center.mb-4
+      .col-md.tarjeta.color-acento-contenido.p-5(style="border-top-right-radius: 20px !important; border-bottom-right-radius: 20px !important")
+        .row.justify-content-center.mb-4 
           .col-6
             figure
               img(src='@/assets/curso/temas/1/6.png', )
