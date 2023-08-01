@@ -8,9 +8,9 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/Sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg" alt="Texto alternativo Alt: “Síntesis” en esta imagen se muestra la temática tratada en el componente formativo donde se hace referencia a la huella hídrica y una profundización en cuanto al concepto de agua y las metodologías usadas.")
           .anexo__texto
