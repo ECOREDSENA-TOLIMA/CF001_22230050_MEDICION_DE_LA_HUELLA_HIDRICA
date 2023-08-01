@@ -5,19 +5,19 @@
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.h-100.d-flex.align-items-center.p-4
+        .tarjeta.h-100.d-flex.align-items-center.p-4.mt-5
           figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Emparejamiento entre término y definición.
         p.mb-4 #[b Objetivo] Afianzar algunos de los conceptos sobre el agua y la huella hídrica para apropiación de conocimientos únicos.
-        .tarjeta.actividad.p-3
+        .tarjeta.actividad.p-3.mb-5
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar el término con la definición que corresponde.
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
