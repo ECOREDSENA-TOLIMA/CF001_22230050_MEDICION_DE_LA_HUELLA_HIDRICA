@@ -22,7 +22,7 @@
         .row.justify-content-center.mb-4
           .col-8
             figure
-              img(src='@/assets/curso/temas/3/2.svg',  style="height: 250px")
+              img(src='@/assets/curso/temas/3/2.svg',  style="height: 250px", alt="“Metodologías de cálculo”. En esta imagen se hace referencia a las dos formas de cuantificar la huella hídrica, la  Metodología de la Water Footprint Network (WFN) que tiene en cuenta, la cantidad de agua necesaria (empleada directa e indirectamente) para producir un producto u ofrecer un servicio y asimilar los contaminantes que se generan, para lo que incluye el agua azul, agua verde y agua gris y la Metodología ISO 14046 que está basado en métricas que cuantifican los potenciales impactos medioambientales relacionados con la contaminación del agua durante el ciclo de vida de un producto")
         h4.mb-4.text-center Metodología de la Water Footprint Network<br> (WFN) 
         p Tiene en cuenta, la cantidad de agua necesaria (empleada directa e indirectamente) para producir un producto u ofrecer un servicio y asimilar los contaminantes que se generan, para lo que incluye el agua azul, agua verde y agua gris. 
       
@@ -139,15 +139,19 @@
 
             .row.align-items-center.my-5      
               .col
-              img(src="@/assets/curso/temas/3/7.svg" data-aos="zoom-in-up" alt=" ")
+              img(src="@/assets/curso/temas/3/7.svg" data-aos="zoom-in-up" alt="“Componentes de la huella hídrica”. En esta imagen se muestras los diferentes componentes de la huella hídrica y su correcta distribución. Dependiendo de la fuente, las extracciones, el total de producción, el comercio y el total de consumo. En la fuente, se presentan las aguas superficiales y subterráneas y la humedad del suelo. En las extracciones, Industriales, agua doméstica, agricultura de riego y agricultura de secano. En la producción, aguas grises, aguas azules y aguas verdes. En el comercio, exportación de agua, reexportación e importación de agua En el consumo, interna (84%) y externa (16%).")
 
     p.mt-3 Es importante tener en cuenta que esta metodología no se queda solo con calcular un volumen de agua sino que también analiza y establece estrategias para lograr la sostenibilidad del recurso hídrico. Para lo cual, el proceso de evaluación de la huella hídrica se desarrolla en 4 fases, como se observa a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-8
-          .row.align-items-center.my-5      
-            .col
-            img(src="@/assets/curso/temas/3/8.svg" data-aos="zoom-in-up" alt=" ")    
+          .row.align-items-center.my-5
+            figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+              .row.justify-content-center(data-aos="fade-right")
+                img(src="@/assets/curso/temas/3/8.svg" data-aos="zoom-in-up" alt="“Etapas de WFT”. En esta infografía interactiva se muestran las cuatro fases que maneja la metodología WFT. Fase I, definición y alcance. Fase II, cuantificación. Fase III, evaluación de sostenibilidad. Fase IV, formación de respuesta.")
+            figure.movil.mt-0
+              .row.justify-content-center.d-lg-none.d-md-none        
+                img(src="@/assets/curso/temas/3/13.svg" data-aos="zoom-in-up" alt="“Etapas de WFT”. En esta infografía interactiva se muestran las cuatro fases que maneja la metodología WFT. Fase I, definición y alcance. Fase II, cuantificación. Fase III, evaluación de sostenibilidad. Fase IV, formación de respuesta.")      
 
     p.mt-3 La primera fase, es primordial y clave, y consiste en definir los objetivos y el alcance del estudio de la evaluación de la huella hídrica, es decir, se debe determinar el área o sector de interés que se va a evaluar, la resolución temporal, la escala espacial y las fases que va incluir (un estudio no obligatoriamente debe contener las 4 fases). En la segunda fase se toma en cuenta lo que se requiere recolectar  en la huella hídrica,  la información y datos necesarios para realizar la cuantificación. La tercera fase es la evaluación o análisis de la sostenibilidad desde el ámbito social, económico y ambiental y, por último en la fase cuarta se proponen respuestas, estrategias y políticas requeridas.
     Separador.mt-0
@@ -173,7 +177,7 @@
         .col-lg-8
           .row.align-items-center.my-5      
             .col
-            img(src="@/assets/curso/temas/3/9.svg" data-aos="zoom-in-up" alt=" ")    
+            img(src="@/assets/curso/temas/3/9.svg" data-aos="zoom-in-up" alt="“Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hidrica. En esta imagen se muestra el ciclo de vida del agua en: ACV de la cuna a la puerta Materias primas Industria Procesadora ACV de la cuna a la tumba Distribución Uso/Consumo Disposición Final")    
 
     p.mt-3 De acuerdo a la norma ISO 14046-2014, la metodología planteada para evaluar la huella de agua se basa en las etapas de objetivos y alcance, análisis de inventario y evaluación de impactos. Pero también, se debe tener en cuenta para cada una de las etapas el avance e interpretación de los resultados de acuerdo a los objetivos establecidos, lo cual permite establecer si es necesario realizar algún ajuste o modificación. Según lo muestra la figura 4:
 
@@ -191,7 +195,7 @@
         .col-lg-8
           .row.align-items-center.my-5      
             .col
-            img(src="@/assets/curso/temas/3/10.svg" data-aos="zoom-in-up" alt=" ")   
+            img(src="@/assets/curso/temas/3/10.svg" data-aos="zoom-in-up" alt="“Etapas para el cálculo de la huella de agua”. En esta imagen ser muestra el proceso de evaluación de la huella de agua basado en la norma ISO 14046, en la cual se muestran las etapas tales como: Definición del objetivo y el alcance Análisis del inventario de la huella de agua Evaluación del impacto de la huella de agua La interpretación de resultados. Mostrando de qué manera interactúan entre ellas, La definición interactúa con el análisis y le interpretación de resultados. El Análisis interactúa con la definición, la evaluación y la interpretación de resultados. La evaluación interactúa con el análisis y la interpretación de resultados. La interpretación de resultados interactúa con todas las demás fases.")   
 
     p.mt-3 En conclusión, las características principales y la finalidad de la evaluación de la huella de agua, de acuerdo con la metodología descrita por la norma ISO 14046-2014, se puede observar en el siguiente recurso:
     

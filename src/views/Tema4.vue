@@ -12,7 +12,7 @@
         p.mt-5 A nivel mundial se han adelantado diversos estudios para la cuantificación del uso y contaminación del agua, ya sea mediante la metodología de la ISO 14046:2014 o la Water Footprint Network (WFT), pero es importante resaltar que  independientemente de la metodología empleada el sector agropecuario es uno de los más analizados, lo que tiene gran lógica, ya que según la UNESCO (citada por Martínez, 2016)  aproximadamente el 67% del agua que se extrae en el mundo es empleada para este importante sector de la economía, es decir para la producción agrícola y la tendencia es al aumento. 
         p.mt-5 Algunos de estos estudios están referenciados en el recurso a continuación:
 
-    .row.justify-content-center(data-aos="fade-right")
+    .row.justify-content-center(data-aos="fade-right" alt= "“Estudios HH a nivel mundial”. En esta slider, se presentan algunos países y la manera como usan la metodología WFT o la metodología ISO 14046. Los países de las tarjetas son: ⦁ Argentina ⦁ Bolivia ⦁ Brasil ⦁ Chile ⦁ Perú  ⦁ Ecuador ⦁ México ⦁ Costa Rica ⦁ Uruguay. Donde se puede evidenciar que:  Argentina, Brasil, Chile, Perú, México, Costa Rica aplican ambas metodologías. Mientras que Bolivia, Ecuador y Uruguay solo aplican la WFT.")
       .col-lg-10
       .tarjeta.color-secundario
         .p-4.p-lg-5
@@ -238,7 +238,7 @@
       .col-lg-10
         figure
           .row.justify-content-center(data-aos="fade-right")
-            img(src="@/assets/curso/temas/4/11.svg" data-aos="zoom-in-up" alt= " La búsqueda del desarrollo y las diversas actividades del ser humano, han generado un alto nivel de contaminación, afectando significativamente el medio ambiente y la calidad del agua. A esta situación, se le ha llamado Huella Hídrica.")
+            img(src="@/assets/curso/temas/4/11.svg" data-aos="zoom-in-up" alt= "“Estudios realizados en Colombia sobre huella hídrica”. En esta imagen se muestra como se aplica la metodología WTF Y ISO 14046 en nuestro país. Teniendo dentro de la primera el aspecto geográfico y productos como piedra caliza, cacao, maíz y papa. Mientras que, en la segunda, productos como: Cemento, concreto, papel, productos de higiene, metales preciosos, cajas de cartón y snacks.")
     .row.justify-content-center.mb-5
       .col-lg-10
         .bloque-texto-g.color-secundario.p-2              

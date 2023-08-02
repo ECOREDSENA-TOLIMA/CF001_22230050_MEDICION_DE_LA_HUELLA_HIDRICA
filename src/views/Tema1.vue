@@ -22,7 +22,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-              img(src="@/assets/curso/temas/1/1.svg" style="width:600px" data-aos="zoom-in-up"  alt="Océanos: aproximadamente 97.5 % Agua dulce: aproximadamente 2.5 % De este total: • 2/3 se encuentra en las regiones polares • El resto forma los sistemas de agua subterránea, quedando menos del 1% en agua de ríos, lagos, pantones y agua atmosférica.")
+              img(src="@/assets/curso/temas/1/1.svg" style="width:600px" data-aos="zoom-in-up"  alt="“Distribución del agua”. En la imagen se representa el porcentaje de distribución del agua a nivel mundial: con un 97.5% en los océanos y un 2.5% en agua dulce, De ese total: 2/3 se encuentran en las regiones polares. El resto forma los sistemas de agua subterránea, quedando menos del 1% en agua de ríos, lagos, pantanos y agua atmosférica.")
             
         .row.justify-content-center.pt-5(data-aos="fade-right")
           .col-md-5.offset-0.mb-4.mb-md-4
@@ -56,7 +56,7 @@
    
     .row.align-items-center.mb-5      
       .col
-      img(src="@/assets/curso/temas/1/4.svg" data-aos="zoom-in-up" alt="CICLO HIDROLÓGICO Precipitación Evaporización Evotranspiración Evaporación Reutilización y vertido de aguas residuales Acuífero Intrusión de agua salada OcéanoInfiltración-Recarga Bosque - humedad del suelo Cultivos-humedad del suelo Extracción")
+      img(src="@/assets/curso/temas/1/4.svg" data-aos="zoom-in-up" alt="“Ciclo Hidrológico”. En la imagen animada se muestra el ciclo del agua en cada una de sus fases. ⦁ Precipitación ⦁ Infiltración ⦁ Escorrentía ⦁ Evaporación.")
 
     p.my-5 A pesar de que la cantidad de agua existente es constante, la distribución en el tiempo varía y aumenta el deterioro en la calidad  del producto, debido al crecimiento demográfico e industrial y  de las actividades que se desarrollan se hace indispensable conocer la relación directa que hay entre el uso del agua y los ecosistemas que la proporcionan, para así lograr que el agua dulce sea eficientemente distribuida y utilizada, preservando las fuentes naturales o lugares de captación y realizando los tratamientos requeridos para la eliminación de aguas contaminadas y desechos.
 
@@ -88,7 +88,7 @@
     .tabla-b.color-acento-contenido
       .tabla-b__header
         h4.mb-0 NORMATIVIDAD
-      table
+      table(alt="“Tabla de normativa ambiental”. En la imagen se muestran las normativas vigentes en cuanto al manejo y uso del recurso hídrico. Se divide en dos columnas: 1. La lista de decretos  2. A qué hace referencia cada decreto.")
         tr
           th Decreto - ley 2811 de 1974  
           td Código nacional de recursos naturales renovables y de protección al medio ambiente

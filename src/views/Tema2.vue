@@ -36,7 +36,7 @@
 
         p.mb-5.py-1 El concepto de huella hídrica ha evolucionado con el pasar del tiempo, este término surgió en el año 2002 por Arjen Hoekstra quien es considerado el padre de esta denominación, pero tiene raíces desde el año 1992, a partir del nombre de huella ecológica o también como huella medioambiental acuñado por William Rees y Mathis Wackernagel. El siguiente recurso presenta los cambios nominales y las relaciones con el agua.  
       
-      .row.justify-content-center(data-aos="fade-right")
+      .row.justify-content-center(data-aos="fade-right" alt="“Evolución del concepto”. En esta slider se habla sobre la evolución que ha tenido el concepto de huella hídrica al pasar el tiempo, partiendo de huella ecológica en el año 1992 por William Rees y Mathis Wackernagel, agua vital en 1998 por John Anthony Allan, huella hídrica en el 2002 por Arjen Hoekstra y huella de agua en el 2014 por la ISO 14046.")
         .col-lg-10
         .tarjeta.color-secundario
           .p-4.p-lg-5
