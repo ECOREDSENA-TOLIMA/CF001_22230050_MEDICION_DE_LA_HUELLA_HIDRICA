@@ -43,7 +43,7 @@
             SlyderA(tipo="b")
               .row.align-items-center.m-1
                 .col-lg-5.mb-4.mb-lg-0
-                  h4 Denominación:  Huella Ecológica - William Rees y Mathis Wackernagel - Año: 1992 
+                  h4 Denominación:  huella ecológica - William Rees y Mathis Wackernagel - Año: 1992 
                   p Es un indicador de sostenibilidad que permite medir el impacto ambiental de la sociedad sobre el entorno, mediante la estimación de los recursos naturales existentes y  los requerimientos para satisfacer las necesidades de la población y la asimilación de los residuos producidos. Se encarga de cuantificar la cantidad de superficie de terreno necesaria para de producir lo que la población consume y absorber los desechos que se generan. 
                   p Se encarga de cuantificar la cantidad de superficie de terreno necesaria para de producir lo que la población consume y absorber los desechos que se generan. 
                 .col-lg-7
@@ -52,7 +52,7 @@
 
               .row.align-items-center.m-1
                 .col-lg-5.mb-4.mb-lg-0
-                  h4 Denominación: Agua virtual - John Anthony Allan - Año: 1998 
+                  h4 Denominación: agua virtual - John Anthony Allan - Año: 1998 
                   p Este indicador hace referencia a la cantidad de agua requerida para la elaboración de un producto o servicio, midiendo los litros de agua utilizados durante el cultivo, el crecimiento, el procesamiento, la fabricación, el transporte y la venta del producto, porque no solo cuantifica el agua directa, sino que también la  indirecta. 
                 .col-lg-7
                   figure
@@ -69,7 +69,7 @@
 
               .row.align-items-center.m-1
                 .col-lg-5.mb-4.mb-lg-0
-                  h4 Denominación: Huella de agua - ISO 14046 . - Año: 2014
+                  h4 Denominación: huella de agua - ISO 14046 . - Año: 2014
                   p Hace referencia a la cuantificación de los impactos del uso y contaminación del agua que resultan del ciclo de vida, contando con un ámbito específico que se basa en el análisis del ciclo de vida de productos, procesos y organizaciones. 
                   p La huella de agua hace una evaluación de los posibles impactos medioambientales relacionados con dicho consumo, ya que es un enfoque de impacto ambiental. 
                 .col-lg-7

@@ -93,65 +93,72 @@
           h2#t_1_2 1.2  Normatividad ambiental
 
       p A nivel internacional se han desarrollado políticas y objetivos de desarrollo sostenible, para lograr garantizar la disponibilidad y sostenibilidad de los recursos hídricos, mediante el uso eficiente del agua, las cuales han sido adoptadas por organizaciones como las Naciones Unidas (ONU) y la Organización para la Cooperación y el Desarrollo Económico  (OCDE).
-      
+
+
+      p Tabla 1.
+      p Tabla de normativa ambiental 
+     
     .tabla-b.color-acento-contenido
       .tabla-b__header
         h4.mb-0 NORMATIVIDAD
       table(alt="“Tabla de normativa ambiental”. En la imagen se muestran las normativas vigentes en cuanto al manejo y uso del recurso hídrico. Se divide en dos columnas: 1. La lista de decretos  2. A qué hace referencia cada decreto.")
         tr
           th Decreto - ley 2811 de 1974  
-          td Código nacional de recursos naturales renovables y de protección al medio ambiente
+          td Código nacional de recursos naturales renovables y de protección al medio ambiente.
         tr
           th Decreto 1449 de 1977 Decreto 1541 de 1978
-          td Reiteran estos lineamientos del decreto 2811 de 1974
+          td Reiteran estos lineamientos del decreto 2811 de 1974.
         tr
           th Decreto 1594 de 1984 
-          td Usos del agua y residuos líquidos. Establece los parámetros para los diversos tratamientos de aguas de acuerdo con su uso y disposición
+          td Usos del agua y residuos líquidos. Establece los parámetros para los diversos tratamientos de aguas de acuerdo con su uso y disposición.
         tr
           th Ley 373 de 1997
-          td Establece el programa para el uso eficiente y ahorro de agua
+          td Establece el programa para el uso eficiente y ahorro de agua.
         tr
           th Decreto 475 de 1998
-          td Normas técnicas de calidad del agua potable
+          td Normas técnicas de calidad del agua potable.
         tr
           th Guía de ahorro y uso eficiente del agua 2002 
-          td Guía de ahorro y uso eficiente del agua, la cual incluyó estrategias para el ahorro y uso eficiente del agua
+          td Guía de ahorro y uso eficiente del agua, la cual incluyó estrategias para el ahorro y uso eficiente del agua.
         tr
           th Decreto 3440 de 2004 
-          td Tazas retributivas por vertimientos
+          td Tazas retributivas por vertimientos.
         tr
           th Decreto 155 de 2004
-          td Sobretasas por utilización de agua
+          td Sobretasas por utilización de agua.
         tr
           th Sobretasas por utilización de agua
-          td Reglamenta planes de saneamiento y manejo de vertimientos
+          td Reglamenta planes de saneamiento y manejo de vertimientos.
         tr
           th Decreto 4742 de 2005 
-          td Modifica el decreto 155 de 2004. Sobretasas por utilización de agua
+          td Modifica el decreto 155 de 2004. Sobretasas por utilización de agua.
         tr
           th Decreto 1480 de 2007  
-          td Prioriza a nivel nacional el ordenamiento e intervención de cuentas hidrográficas
+          td Prioriza a nivel nacional el ordenamiento e intervención de cuentas hidrográficas.
         tr
           th Decreto 1323 de 2007  
-          td Creación de sistemas de información del recurso hídrico
+          td Creación de sistemas de información del recurso hídrico.
         tr
           th Decreto 1324 de 2007  
-          td Creación del registro de Usuarios del Recurso Hídrico 
+          td Creación del registro de Usuarios del Recurso Hídrico.
         tr
           th Decreto 3930 de 2010 
-          td Disposiciones relacionadas con los usos del recurso hídrico y los vertimientos del recurso hídrico, al suelo y alcantarillados
+          td Disposiciones relacionadas con los usos del recurso hídrico y los vertimientos del recurso hídrico, al suelo y alcantarillados.
         tr
           th Política Nacional de Gestión Integral de Recursos Hídricos (2010) 
-          td Instrumento orientador de la gestión integral del agua, que cuenta con un horizonte de 12 años que contiene la formulación de los objetivos y estrategias del país para el recurso eficiente del agua, como también el manejo de recursos por parte de todos los sectores, considerando la concertación de los aspectos sociales, económicos y ambientales. <br><br> Se implementará a través del Plan Hídrico Nacional, mediante sus líneas de acción estratégicas, con programas y proyectos específicos a implementar en el corto plazo (2014), medio plazo (2018) y largo plazo (2022)
+          td Instrumento orientador de la gestión integral del agua, que cuenta con un horizonte de 12 años que contiene la formulación de los objetivos y estrategias del país para el recurso eficiente del agua, como también el manejo de recursos por parte de todos los sectores, considerando la concertación de los aspectos sociales, económicos y ambientales. <br><br> Se implementará a través del Plan Hídrico Nacional, mediante sus líneas de acción estratégicas, con programas y proyectos específicos a implementar en el corto plazo (2014), medio plazo (2018) y largo plazo (2022).
         tr
           th Decreto 2667 de 2012 
-          td Reglamenta la tasa retribuida por la utilización directa e indirecta del agua como receptor de los vertimientos puntuales y se toman otras determinaciones
+          td Reglamenta la tasa retribuida por la utilización directa e indirecta del agua como receptor de los vertimientos puntuales y se toman otras determinaciones.
         tr
           th Resolución 0631 de 2015 
-          td Por la cual se establecen los parámetros y los valores máximos permisibles en los vertimientos puntuales a cuerpo de agua superficiales y a los sistemas de alcantarillado público y se dictan otras disposiciones
+          td Por la cual se establecen los parámetros y los valores máximos permisibles en los vertimientos puntuales a cuerpo de agua superficiales y a los sistemas de alcantarillado público y se dictan otras disposiciones.
         tr
           th Decreto 1076 de 2015 
-          td Decreto único reglamentario del sector ambiente y desarrollo sostenible
+          td Decreto único reglamentario del sector ambiente y desarrollo sostenible.
+
+    p Nota. Tomada de la normatividad del Ministerio del Medio Ambiente y Desarrollo Sostenible.
+
 
     .row.align-items-center.my-5.col-lg-10.m-auto        
       .col-auto
