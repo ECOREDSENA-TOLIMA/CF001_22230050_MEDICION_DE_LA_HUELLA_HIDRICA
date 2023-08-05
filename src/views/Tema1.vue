@@ -92,16 +92,18 @@
         .titulo-segundo.color-acento-contenido(style="position:relative")
           h2#t_1_2 1.2  Normatividad ambiental
 
-      p A nivel internacional se han desarrollado políticas y objetivos de desarrollo sostenible, para lograr garantizar la disponibilidad y sostenibilidad de los recursos hídricos, mediante el uso eficiente del agua, las cuales han sido adoptadas por organizaciones como las Naciones Unidas (ONU) y la Organización para la Cooperación y el Desarrollo Económico  (OCDE).
+      p.mb-5 A nivel internacional se han desarrollado políticas y objetivos de desarrollo sostenible, para lograr garantizar la disponibilidad y sostenibilidad de los recursos hídricos, mediante el uso eficiente del agua, las cuales han sido adoptadas por organizaciones como las Naciones Unidas (ONU) y la Organización para la Cooperación y el Desarrollo Económico  (OCDE).
 
 
-      p Tabla 1.
-      p Tabla de normativa ambiental 
+      .titulo-sexto.color-acento-contenido.mb-0
+        h5 Tabla 1.
+        span Tabla de normativa ambiental  
      
     .tabla-b.color-acento-contenido
       .tabla-b__header
-        h4.mb-0 NORMATIVIDAD
+        h4.mb-0 NORMATIVIDAD 
       table(alt="“Tabla de normativa ambiental”. En la imagen se muestran las normativas vigentes en cuanto al manejo y uso del recurso hídrico. Se divide en dos columnas: 1. La lista de decretos  2. A qué hace referencia cada decreto.")
+        caption Tomada de la normatividad del Ministerio del Medio Ambiente y Desarrollo Sostenible.
         tr
           th Decreto - ley 2811 de 1974  
           td Código nacional de recursos naturales renovables y de protección al medio ambiente.
@@ -156,9 +158,6 @@
         tr
           th Decreto 1076 de 2015 
           td Decreto único reglamentario del sector ambiente y desarrollo sostenible.
-
-    p Nota. Tomada de la normatividad del Ministerio del Medio Ambiente y Desarrollo Sostenible.
-
 
     .row.align-items-center.my-5.col-lg-10.m-auto        
       .col-auto

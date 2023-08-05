@@ -255,7 +255,27 @@
                 |● Proporcionar información coherente
                 |  confiable para dar informe de los resultados
                 |  de la huella de agua.  
-    p.mt-5 Adicionalmente a estas dos metodologías, existen diversas herramientas informáticas que ayudan al cálculo de la huella hídrica, mediante software como Extended Calculator, Zerofootprint, Air.e (desarrollado por la compañía Solid Forest), Siampro, GaBi, Open LCA, TEAM,  UMBERTO; los cuales en algunos casos realizan los cálculos basados en aproximaciones específicas para determinados países y también son empleados para análisis que no son específicos (ya sea individual o nivel de nación, sino toman aspectos intermedios).
+    p.mt-5 
+    | Adicionalmente a estas dos metodologías, 
+    | existen diversas herramientas informáticas que ayudan al cálculo de la huella hídrica, mediante 
+    b #[i Software ]  
+    | como 
+    b #[i Extended Calculator]
+    |, 
+    b #[i Zerofootprint]
+    |, 
+    b #[i Air.e]
+    | (desarrollado por la compañía Solid Forest), 
+    b #[i Siampro]
+    |, 
+    b #[i GaBi]
+    |, 
+    b #[i Open LCA]
+    |, 
+    b #[i TEAM]
+    |, 
+    b #[i UMBERTO]
+    |; los cuales en algunos casos realizan los cálculos basados en aproximaciones específicas para determinados países y también son empleados para análisis que no son específicos (ya sea individual o nivel de nación, sino toman aspectos intermedios).
 
            
 
