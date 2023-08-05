@@ -65,76 +65,78 @@
   
             .titulo-principal.color-acento-contenido
 
+      .tabla-b.color-acento-contenido
+      .tabla-b__header
       .row.justify-content-center.mb-0(data-aos="fade-right")
         .col-lg-12  
             .row.my-3.col-lg-10.m-auto        
               .col.mx-2
                 p(data-aos="fade-up") En general, los componentes de la huella hídrica se muestran en la figura 2 y, de acuerdo con la metodología para la cuantificación de la huella hídrica propuesta por Water Footprint Network (WTF), está enfocada no solo a cuantificar el uso y contaminación directa o indirecta del agua de acuerdo al área de interés, es decir, la huella hídrica bajo esta metodología puede ser aplicada a gran variedad de casos:
               .col.mx-2
-                .row.col-lg-12(style= "max-height: 45px !important;")        
+                .row.col-lg-12(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Sectores económicos. 
                   .titulo-principal.p-0
-                .row.col-lg-12.my-0(style= "max-height: 45px !important;")        
+                .row.col-lg-12.my-0(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Organizaciones específicas. 
                   .titulo-principal.p-0
-                .row.col-lg-12(style= "max-height: 45px !important;")        
+                .row.col-lg-12(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Empresa o sector empresarial.  
                   .titulo-principal.p-0
-                .row.col-lg-12.my-0(style= "max-height: 45px !important;")        
+                .row.col-lg-12.my-0(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Procesos o grupo de procesos antrópicos.   
                   .titulo-principal.p-0
-                .row.col-lg-12(style= "max-height: 45px !important;")        
+                .row.col-lg-12(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Etapa del proceso.  
                   .titulo-principal.p-0
-                .row.col-lg-12.my-0(style= "max-height: 45px !important;")        
+                .row.col-lg-12.my-0(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Producto o servicio.  
                   .titulo-principal.p-0
-                .row.col-lg-12(style= "max-height: 45px !important;")        
+                .row.col-lg-12(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Consumidor o grupo de consumidores. 
                   .titulo-principal.p-0
-                .row.col-lg-12.my-0(style= "max-height: 45px !important;")        
+                .row.col-lg-12.my-0(style= "max-height: 75px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Nivel geográfico (municipio, provincia, nación, zona de captación o cuenca hidrográfica).
 
-      .row.justify-content-center.mb-0(data-aos="fade-right")
+      .row.justify-content-center.mb-0(data-aos="fade-right" style="padding-top: 50px")
         .col-lg-11
           .row.mx-5(data-aos="fade-right")
             .col-sm-12.col-lg-12
               .row(data-aos="fade-right")
                 .col-sm-12.col-lg-12
                   .titulo-sexto.mb-0.color-secundario.mb-1
-                    p.mb-0 #[b Figura 2] 
+                    p.mb-0 #[b Figura 3] 
                       i Componentes de la huella hídrica 
 
             .row.align-items-center.my-5      
@@ -170,7 +172,7 @@
               .row(data-aos="fade-right")
                 .col-sm-12.col-lg-12
                   .titulo-sexto.mb-0.color-secundario.mb-1
-                    p.mb-0 #[b Figura 3] 
+                    p.mb-0 #[b Figura 4] 
                       i Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hídrica
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
@@ -188,7 +190,7 @@
               .row(data-aos="fade-right")
                 .col-sm-12.col-lg-12
                   .titulo-sexto.mb-0.color-secundario.mb-1
-                    p.mb-0 #[b Figura 4] 
+                    p.mb-0 #[b Figura 5] 
                       i Etapas para el cálculo de la huella de agua
 
     .row.justify-content-center.mb-2(data-aos="fade-right")

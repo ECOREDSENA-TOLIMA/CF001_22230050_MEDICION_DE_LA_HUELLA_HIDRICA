@@ -641,9 +641,9 @@
     </clipPath>
     <linearGradient id="linear-gradient-81" x1="-2.033" y1="1.129" x2="-2.015" y2="1.129" xlink:href="#linear-gradient-3"/>
   </defs>
-  <g id="Grupo_243986" data-name="Grupo 243986" transform="translate(-180.5 -409)">
-    <g id="Grupo_243985" data-name="Grupo 243985">
-      <g id="Grupo_243216" data-name="Grupo 243216" transform="translate(180.5 409)" clip-path="url(#clip-path)">
+  <g id="Grupo_243987" data-name="Grupo 243987" transform="translate(-180.5 -409)">
+    <g id="Grupo_243217" data-name="Grupo 243217" transform="translate(180.5 409)">
+      <g id="Grupo_243216" data-name="Grupo 243216" clip-path="url(#clip-path)">
         <g id="Grupo_242879" data-name="Grupo 242879">
           <g id="Grupo_242878" data-name="Grupo 242878" clip-path="url(#clip-path)">
             <g id="Grupo_242877" data-name="Grupo 242877">
@@ -1441,9 +1441,9 @@
           </g>
         </g>
       </g>
-      <text id="La_búsqueda_del_desarrollo_y_las_diversas_actividades_del_ser_humano_han_generado_un_alto_nivel_de_contaminación_afectando_significativamente_el_medio_ambiente_y_la_calidad_del_agua._A_esta_situación_se_le_ha_llamado_Huella_Hídrica." data-name="La búsqueda del desarrollo y las diversas actividades del ser humano, han generado un alto nivel de contaminación, afectando significativamente el medio ambiente y la calidad del agua.
- 
-A esta situación, se le ha llamado Huella Hídrica." transform="translate(285 575)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">La búsqueda del desarrollo y las diversas actividades del ser humano, han generado un alto nivel de contaminación, afectando significativamente </tspan><tspan x="0" y="39">el medio ambiente y la calidad del agua.</tspan><tspan x="0" y="63"> </tspan><tspan x="0" y="87">A esta situación, se le ha llamado Huella Hídrica.</tspan></text>
     </g>
+    <text id="La_búsqueda_del_desarrollo_y_las_diversas_actividades_del_ser_humano_han_generado_un_alto_nivel_de_contaminación_afectando_significativamente_el_medio_ambiente_y_la_calidad_del_agua._A_esta_situación_se_le_ha_llamado_huella_hídrica." data-name="La búsqueda del desarrollo y las diversas actividades del ser humano, han generado un alto nivel de contaminación, afectando significativamente el medio ambiente y la calidad del agua.
+ 
+A esta situación, se le ha llamado huella hídrica." transform="translate(285 575)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">La búsqueda del desarrollo y las diversas actividades del ser humano, han generado un alto nivel de contaminación, afectando significativamente </tspan><tspan x="0" y="39">el medio ambiente y la calidad del agua.</tspan><tspan x="0" y="63"> </tspan><tspan x="0" y="87">A esta situación, se le ha llamado huella hídrica.</tspan></text>
   </g>
 </svg>

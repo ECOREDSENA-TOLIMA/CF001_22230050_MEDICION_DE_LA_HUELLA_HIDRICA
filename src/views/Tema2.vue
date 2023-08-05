@@ -60,7 +60,7 @@
                     
               .row.align-items-center.m-1
                 .col-lg-5.mb-4.mb-lg-0
-                  h4 Denominación: Huella Hídrica - Arjen Hoekstra.  - Año: 2002
+                  h4 Denominación: huella hídrica - Arjen Hoekstra.  - Año: 2002
                   p Este concepto está ligado al de agua virtual, el cual tiene una aplicación más amplia porque no solo se refiere a la cuantificación  del volumen de agua contenido en cada producto, sino que es un indicador de consumo y contaminación con fines productivos, es decir  que permite conocer la cantidad de agua que aprovecha una persona, un grupo de consumidores, una región, país o toda la humanidad en su utilización diario para producir comida, en procesos industriales, en generación de energía, etc.   
                   p La huella hídrica, se clasifica en azul, verde y gris.
                 .col-lg-7

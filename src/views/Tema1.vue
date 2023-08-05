@@ -53,7 +53,16 @@
             p(data-aos="fade-up") El agua es un recurso finito, que además de ser esencial para la vida, es fundamental para el desarrollo de las sociedades; esté líquido vital tiene gran variedad de usos tanto naturales (mantenimiento de ríos, plantas, ecosistemas, transporte de sedimentos, etc.) como antrópicos (aprovisionamiento, industria, agricultura, ganadería, recreación, domésticos, minería, energía, etc.). Usos que son necesarios identificar y conocer, para así lograr hacer un uso sustentable de este líquido vital, donde se conozca y tenga en cuenta todas y cada una de las fases del ciclo hidrológico. 
             p(data-aos="fade-up") El agua está en continuo movimiento y circulación, cambia de un estado (líquido, sólido y gaseoso) pero no disminuye ni aumenta su cantidad; de forma continua se encuentra transitando entre los diversos depósitos existentes en la atmósfera, lo que ocasiona que su funcionamiento se da a través de un ciclo denominado ciclo hidrológico, el cual es un proceso que incluye las precipitaciones, evaporación, escorrentía e infiltración. Como se puede observar a en la siguiente imagen:
             
-   
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-12
+        .row.mx-5(data-aos="fade-right")
+          .col-sm-12.col-lg-12
+            .row(data-aos="fade-right")
+              .col-sm-12.col-lg-12
+                .titulo-sexto.mb-0.color-secundario.mb-1
+                  p.mb-0 #[b Figura 2] 
+                    i Componentes de la huella hídrica 
+
     .row.align-items-center.mb-5      
       .col
       img(src="@/assets/curso/temas/1/4.svg" data-aos="zoom-in-up" alt="“Ciclo Hidrológico”. En la imagen animada se muestra el ciclo del agua en cada una de sus fases. ⦁ Precipitación ⦁ Infiltración ⦁ Escorrentía ⦁ Evaporación.")

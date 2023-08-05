@@ -231,7 +231,7 @@
             .row(data-aos="fade-right")
               .col-sm-12.col-lg-12
                 .titulo-sexto.mb-0.color-secundario.mb-1
-                  p.mb-0 #[b Figura 5] 
+                  p.mb-0 #[b Figura 6] 
                     i  Estudios realizados en Colombia sobre huella hídrica
 
     .row.justify-content-center.mt-5(data-aos="fade-right")
