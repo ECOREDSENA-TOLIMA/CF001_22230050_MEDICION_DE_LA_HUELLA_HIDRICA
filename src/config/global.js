@@ -292,7 +292,7 @@ export default {
           centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
         },
         {
-          nombre: 'Luis Fernando Botero Mendoza ',
+          nombre: 'Sergio Ausguto Ardila Ortiz',
           cargo: 'Diseñador instruccional ',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
