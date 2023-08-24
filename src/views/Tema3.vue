@@ -13,8 +13,8 @@
           .row.justify-content-center(data-aos="fade-right")
             img(src="@/assets/curso/temas/3/1.svg" data-aos="zoom-in-up" alt= " La búsqueda del desarrollo y las diversas actividades del ser humano, han generado un alto nivel de contaminación, afectando significativamente el medio ambiente y la calidad del agua. A esta situación, se le ha llamado Huella Hídrica.")
 
-    p.mt-5 Para controlar el impacto generado, se han diseñado diversas enfoques metodológicos que cuantifican la huella hídrica y la huella de agua:  estos enfoques están basados en el ciclo de vida y son herramientas que buscan conocer el consumo de agua relacionado con diferentes tipos de análisis y las consecuencias de ese consumo y  para ello se utilizan diferentes metodologías. 
-    p.mt-3 Cada metodología tiene distinto campo de aplicación y esto depende del objetivo del estudio que se quiera llevar a cabo y el fin que quiera darse a los resultados obtenidos; sin embargo cada enfoque es complementario del otro y a pesar de sus diferencias, ambos son necesarios para la toma de decisiones sobre la sustentabilidad en el uso de los recursos hídricos que favorecen las necesidades humanas. 
+    p.mt-5 Para controlar el impacto generado, se han diseñado diversos enfoques metodológicos que cuantifican la huella hídrica y la huella de agua:  estos enfoques están basados en el ciclo de vida y son herramientas que buscan conocer el consumo de agua relacionado con diferentes tipos de análisis y las consecuencias de ese consumo y  para ello se utilizan diferentes metodologías. 
+    p.mt-3 Cada metodología tiene distinto campo de aplicación y esto depende del objetivo del estudio que se quiera llevar a cabo y el fin que quiera darse a los resultados obtenidos; sin embargo, cada enfoque es complementario del otro y a pesar de sus diferencias, ambos son necesarios para la toma de decisiones sobre la sustentabilidad en el uso de los recursos hídricos que favorecen las necesidades humanas. 
     p.mt-3.mb-5 Son dos enfoques metodológicos que permiten cuantificar la huella hídrica son:
 
     .tarjeta--container.row.mb-5
@@ -143,7 +143,7 @@
               .col
               img(src="@/assets/curso/temas/3/7.svg" data-aos="zoom-in-up" alt="“Componentes de la huella hídrica”. En esta imagen se muestras los diferentes componentes de la huella hídrica y su correcta distribución. Dependiendo de la fuente, las extracciones, el total de producción, el comercio y el total de consumo. En la fuente, se presentan las aguas superficiales y subterráneas y la humedad del suelo. En las extracciones, Industriales, agua doméstica, agricultura de riego y agricultura de secano. En la producción, aguas grises, aguas azules y aguas verdes. En el comercio, exportación de agua, reexportación e importación de agua En el consumo, interna (84%) y externa (16%).")
 
-    p.mt-3 Es importante tener en cuenta que esta metodología no se queda solo con calcular un volumen de agua sino que también analiza y establece estrategias para lograr la sostenibilidad del recurso hídrico. Para lo cual, el proceso de evaluación de la huella hídrica se desarrolla en 4 fases, como se observa a continuación:
+    p.mt-3 Es importante tener en cuenta que esta metodología no se queda solo con calcular un volumen de agua, sino que también analiza y establece estrategias para lograr la sostenibilidad del recurso hídrico. Para lo cual, el proceso de evaluación de la huella hídrica se desarrolla en 4 fases, como se observa a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-8
