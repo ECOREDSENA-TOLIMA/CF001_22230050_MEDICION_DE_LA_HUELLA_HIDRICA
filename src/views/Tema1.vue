@@ -13,7 +13,7 @@
               .row(data-aos="fade-right")
                 .col-sm-12.col-lg-12
                   .titulo-sexto.mb-0.color-secundario.mb-1
-                    p.mb-0 #[b Figura 1] 
+                    p.mb-0 #[b Figura 1.] 
                       i Distribución del agua
 
     figure.pb-0
@@ -36,7 +36,7 @@
           .col
             p(data-aos="fade-up" style="overflow-x: hidden !important") En el caso específico de Colombia, el país cuenta con un patrimonio hídrico importante entre humedales, ríos, lagunas, lagos, ciénagas, arrecifes, y estuarios, etc., siendo uno de los países con mayor oferta hídrica natural, lo que hace que sea catalogado como potencia hídrica mundial como lo indica la principal organización de conservación de la naturaleza a nivel global, WWF.
             .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
-              p.mb-2.py-2(style="overflow-x: hidden !important") Pero esta riqueza hídrica principalmente por la acción irresponsable y desmesurada del hombre en búsqueda del desarrollo viene siendo afectada y contaminada, presentando alteraciones físicas, químicas y biológicas que generan un modificación en su composición perdiendo sus características naturales y variaciones en el ciclo natural del agua, el cual es denominado ciclo hidrológico que permite identificar la ubicación, distribución y circulación del agua en el planeta.
+              p.mb-2.py-2(style="overflow-x: hidden !important") Pero esta riqueza hídrica principalmente por la acción irresponsable y desmesurada del hombre en búsqueda del desarrollo viene siendo afectada y contaminada, presentando alteraciones físicas, químicas y biológicas que generan una modificación en su composición perdiendo sus características naturales y variaciones en el ciclo natural del agua, el cual es denominado ciclo hidrológico que permite identificar la ubicación, distribución y circulación del agua en el planeta.
 
         p.mt-5 Por tanto, es primordial para conservar la vida ya que los seres humanos son dependientes de este líquido vital, realizar uso sostenible una adecuación gestión del recurso hídrico, donde haya una verdadera conciencia sobre los efectos e impactos negativos que se generan sobre el agua por el estilo de vida los productos que se consumen y las formas de producción actual.
         Separador.mt-0
@@ -51,7 +51,7 @@
               img(src='@/assets/curso/temas/1/3.svg').m-auto(data-aos="fade-right")
           .col
             p(data-aos="fade-up") El agua es un recurso finito, que además de ser esencial para la vida, es fundamental para el desarrollo de las sociedades; esté líquido vital tiene gran variedad de usos tanto naturales (mantenimiento de ríos, plantas, ecosistemas, transporte de sedimentos, etc.) como antrópicos (aprovisionamiento, industria, agricultura, ganadería, recreación, domésticos, minería, energía, etc.). Usos que son necesarios identificar y conocer, para así lograr hacer un uso sustentable de este líquido vital, donde se conozca y tenga en cuenta todas y cada una de las fases del ciclo hidrológico. 
-            p(data-aos="fade-up") El agua está en continuo movimiento y circulación, cambia de un estado (líquido, sólido y gaseoso) pero no disminuye ni aumenta su cantidad; de forma continua se encuentra transitando entre los diversos depósitos existentes en la atmósfera, lo que ocasiona que su funcionamiento se da a través de un ciclo denominado ciclo hidrológico, el cual es un proceso que incluye las precipitaciones, evaporación, escorrentía e infiltración. Como se puede observar a en la siguiente imagen:
+            p(data-aos="fade-up") El agua está en continuo movimiento y circulación, cambia de un estado (líquido, sólido y gaseoso) pero no disminuye ni aumenta su cantidad; de forma continua se encuentra transitando entre los diversos depósitos existentes en la atmósfera, lo que ocasiona que su funcionamiento se da a través de un ciclo denominado ciclo hidrológico, el cual es un proceso que incluye las precipitaciones, evaporación, escorrentía e infiltración. Como se puede observar a en la siguiente figura:
             
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -60,7 +60,7 @@
             .row(data-aos="fade-right")
               .col-sm-12.col-lg-12
                 .titulo-sexto.mb-0.color-secundario.mb-1
-                  p.mb-0 #[b Figura 2] 
+                  p.mb-0 #[b Figura 2.] 
                     i Componentes de la huella hídrica 
 
     .row.align-items-center.mb-5      
