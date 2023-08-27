@@ -27,7 +27,7 @@
         .row.justify-content-center.pt-5(data-aos="fade-right")
           .col-md-5.offset-0.mb-4.mb-md-4
             .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F6F6F6; overflow-x: hidden !important")
-              p.px-3.pt-1.pb-1 Nota. Mazari-Hiriart, M. (2003).  
+              p.px-3.pt-1.pb-1 Nota. Tomada de Mazari-Hiriart, M. (2003).  
 
           .row.align-items-center.my-3.col-lg-10.m-auto        
           .col-auto
@@ -97,7 +97,7 @@
 
       .titulo-sexto.color-acento-contenido.mb-0
         h5 Tabla 1.
-        span Tabla de normativa ambiental  
+        i Tabla de normativa ambiental  
      
     .tabla-b.color-acento-contenido
       .tabla-b__header

@@ -101,12 +101,12 @@
                   .col
                     p.m-0 Procesos o grupo de procesos antrópicos.   
                   .titulo-principal.p-0
-                .row.col-lg-12(style= "max-height: 75px !important;")        
+                .row.col-lg-12(style= "max-height: 95px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
-                    p.m-0 Etapa del proceso.  
+                    p.mt-3 Etapa del proceso.  
                   .titulo-principal.p-0
                 .row.col-lg-12.my-0(style= "max-height: 75px !important;")        
                   .col-2
@@ -115,14 +115,14 @@
                   .col
                     p.m-0 Producto o servicio.  
                   .titulo-principal.p-0
-                .row.col-lg-12(style= "max-height: 75px !important;")        
+                .row.col-lg-12(style= "max-height: 105px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
                   .col
                     p.m-0 Consumidor o grupo de consumidores. 
                   .titulo-principal.p-0
-                .row.col-lg-12.my-0(style= "max-height: 75px !important;")        
+                .row.col-lg-12.my-0(style= "min-height: 85px !important;")        
                   .col-2
                     figure
                       img(src='@/assets/curso/temas/3/6.svg',  style="height: 30px").m-auto(data-aos="fade-right")
@@ -163,7 +163,7 @@
         h2#t_3_2 3.2  Norma ISO 14046-2014
 
     p.mt-3 La Norma ISO 14046 específicamente no habla de huella hídrica sino el término empleado es “huella de agua”  y la define como la métrica o métricas con las que se cuantifican los impactos ambientales potenciales relacionados con el agua (ISO 14046, 2014); ya que se busca  evaluar el impacto que se generan a este recurso vital, basado en un factor principal que es el ciclo de vida con el objetivo de cuantificar la huella y así lograr plantear medidas para mitigarla, mediante estrategias de sostenibilidad social, económica y ambiental enfocadas al recurso hídrico.  
-    p.mt-3 Por tanto, el ciclo de vida fundamental  permite determinar y evaluar los impactos ocasionados por el hombre al medio ambiente, los ecosistemas y los recursos; pero, es importante resaltar que la huella hídrica total es la suma de las huellas directas e indirectas, porque cada etapa del ciclo de vida cuenta con una huella hídrica directa e indirecta, es decir, se debe considerar en cada etapa y cadena de valor los usos tanto directos como los indirectos de agua. Además, el ciclo de vida puede realizarse para las organizaciones, los procesos, los productos o los servicios, de forma global o puede ser delimitado o por fases como se muestra en la figura 3. 
+    p.mt-3 Por tanto, el ciclo de vida fundamental  permite determinar y evaluar los impactos ocasionados por el hombre al medio ambiente, los ecosistemas y los recursos; pero, es importante resaltar que la huella hídrica total es la suma de las huellas directas e indirectas, porque cada etapa del ciclo de vida cuenta con una huella hídrica directa e indirecta, es decir, se debe considerar en cada etapa y cadena de valor los usos tanto directos como los indirectos de agua. Además, el ciclo de vida puede realizarse para las organizaciones, los procesos, los productos o los servicios, de forma global o puede ser delimitado o por fases como se muestra en la figura 4. 
 
     .row.justify-content-center.mt-4(data-aos="fade-right")
         .col-lg-11
