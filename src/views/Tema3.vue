@@ -23,7 +23,8 @@
           .col-8
             figure
               img(src='@/assets/curso/temas/3/2.svg',  style="height: 250px", alt="“Metodologías de cálculo”. En esta imagen se hace referencia a las dos formas de cuantificar la huella hídrica, la  Metodología de la Water Footprint Network (WFN) que tiene en cuenta, la cantidad de agua necesaria (empleada directa e indirectamente) para producir un producto u ofrecer un servicio y asimilar los contaminantes que se generan, para lo que incluye el agua azul, agua verde y agua gris y la Metodología ISO 14046 que está basado en métricas que cuantifican los potenciales impactos medioambientales relacionados con la contaminación del agua durante el ciclo de vida de un producto")
-        h4.mb-4.text-center Metodología de la Water Footprint Network<br> (WFN) 
+        h4.mb-4.text-center Metodología de la 
+          i Water Footprint Network<br> (WFN) 
         p Tiene en cuenta, la cantidad de agua necesaria (empleada directa e indirectamente) para producir un producto u ofrecer un servicio y asimilar los contaminantes que se generan, para lo que incluye el agua azul, agua verde y agua gris. 
       
       .col-md.tarjeta.color-secundario.p-5(style="border-top-right-radius: 20px !important; border-bottom-right-radius: 20px !important")
@@ -49,7 +50,9 @@
                   :style="{'background-image': `url(${require('@/assets/curso/temas/3/4.svg')})`}"
                 )
                 .bloque-texto-g__texto.p-5.m-2
-                  p.p-0(data-aos="fade-up") De acuerdo a la metodología planteada por la Water Footprint Network (WTF), la huella hídrica es un indicador multidimensional que establece el volumen de consumo por origen, por contaminación y además está vinculada a una localización geográfica y aún periodo de tiempo determinado, es decir lugar – tiempo claro.
+                  p.p-0(data-aos="fade-up") De acuerdo a la metodología planteada por la 
+                    i Water Footprint Network 
+                    |(WTF), la huella hídrica es un indicador multidimensional que establece el volumen de consumo por origen, por contaminación y además está vinculada a una localización geográfica y aún periodo de tiempo determinado, es decir lugar – tiempo claro.
                     br
 
       .row.justify-content-center.mb-0(data-aos="fade-right")
@@ -71,7 +74,9 @@
         .col-lg-12  
             .row.my-3.col-lg-10.m-auto        
               .col.mx-2
-                p(data-aos="fade-up") En general, los componentes de la huella hídrica se muestran en la figura 2 y, de acuerdo con la metodología para la cuantificación de la huella hídrica propuesta por Water Footprint Network (WTF), está enfocada no solo a cuantificar el uso y contaminación directa o indirecta del agua de acuerdo al área de interés, es decir, la huella hídrica bajo esta metodología puede ser aplicada a gran variedad de casos:
+                p(data-aos="fade-up") En general, los componentes de la huella hídrica se muestran en la figura 3 y, de acuerdo con la metodología para la cuantificación de la huella hídrica propuesta por 
+                  i Water Footprint Network 
+                  | (WTF), está enfocada no solo a cuantificar el uso y contaminación directa o indirecta del agua de acuerdo al área de interés, es decir, la huella hídrica bajo esta metodología puede ser aplicada a gran variedad de casos:
               .col.mx-2
                 .row.col-lg-12(style= "max-height: 75px !important;")        
                   .col-2
@@ -180,8 +185,9 @@
           .row.align-items-center.my-5      
             .col
             img(src="@/assets/curso/temas/3/9.svg" data-aos="zoom-in-up" alt="“Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hidrica. En esta imagen se muestra el ciclo de vida del agua en: ACV de la cuna a la puerta Materias primas Industria Procesadora ACV de la cuna a la tumba Distribución Uso/Consumo Disposición Final")    
+            figcaption.mt-3 Nota: tomado del manual de normas ISO 14046 (s.f).
 
-    p.mt-3 De acuerdo a la norma ISO 14046-2014, la metodología planteada para evaluar la huella de agua se basa en las etapas de objetivos y alcance, análisis de inventario y evaluación de impactos. Pero también, se debe tener en cuenta para cada una de las etapas el avance e interpretación de los resultados de acuerdo a los objetivos establecidos, lo cual permite establecer si es necesario realizar algún ajuste o modificación. Según lo muestra la figura 4:
+    p.mt-3 De acuerdo a la norma ISO 14046-2014, la metodología planteada para evaluar la huella de agua se basa en las etapas de objetivos y alcance, análisis de inventario y evaluación de impactos. Pero también, se debe tener en cuenta para cada una de las etapas el avance e interpretación de los resultados de acuerdo a los objetivos establecidos, lo cual permite establecer si es necesario realizar algún ajuste o modificación. Según lo muestra la figura 5:
 
     .row.justify-content-center.mt-4(data-aos="fade-right")
         .col-lg-11
