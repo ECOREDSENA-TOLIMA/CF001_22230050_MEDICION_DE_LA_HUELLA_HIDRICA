@@ -147,7 +147,7 @@ export default {
       referencia:
         'Campuzano, C.; González Valencia, J.; Guzmán Cabrera, J.; Rodríguez Ortiz, C.; Arévalo Uribe, D.; Parada Puig, G.; Zárate Torres, E.; Kuiper, D. (2015) Evaluación multisectorial de la huella hídrica en Colombia. Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua. CTA, GSILAC, COSUDE and IDEAM. ',
       tipo: 'Documento',
-      descarga:
+      link:
         'http://documentacion.ideam.gov.co/openbiblio/bvirtual/023272/HH_ENA2014.pdf ',
     },
     {
@@ -156,8 +156,8 @@ export default {
       referencia:
         'Agualimpia, O. N. G., Andina, P. S. (2016). Manual de aplicación de evaluación de huella hídrica acorde a la norma ISO 14046.',
       tipo: 'Documento',
-      descarga:
-        'https://fch.cl/wp-content/uploads/2019/12/manual-aplicacion-iso-14-046-suizagua-1.pdf ',
+      link:
+        'https://fch.cl/wp-content/uploads/2019/12/manual-aplicacion-iso-14-046-suizagua-1.pdf',
     },
   ],
   glosario: [

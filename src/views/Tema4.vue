@@ -35,7 +35,7 @@
                     li 
                       |●  Energizantes. 
                 p.mb-0 #[b Geográfico:]   
-                  span Ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. Ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. <br><br>
+                  span ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. Ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. <br><br>
                 p Para la evaluación se consideraron los sectores residencial, comercial, industrial, público, servicios municipales y actividades de gobierno (administrativas, de servicio y operativas).
               .col-lg-7
                 figure
@@ -65,7 +65,7 @@
                     li 
                       |●  Uva para vino.
                 p.mb-0 #[b Sectores:] 
-                  span Agrícola y pecuario de la provincia de San Luis.                          
+                  span agrícola y pecuario de la provincia de San Luis.                          
                  
                 p Agrícola y pecuario de la provincia de San Luis. 
                 p Para la evaluación se consideraron los sectores residencial, comercial, industrial, público, servicios municipales y actividades de gobierno (administrativas, de servicio y operativas).
@@ -73,7 +73,7 @@
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Productos:]   
-                  span Leche y Uva para vino. 
+                  span leche y Uva para vino. 
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/2.svg', style="width:650px").m-auto
@@ -85,16 +85,16 @@
                   .col-lg-4
                     h4 WFT:                 
                 p.mb-0 #[b Geográfico:]   
-                  span Siete cuencas hidrográficas tomando en cuenta los sectores: pecuario, agrícola, reforestamiento, abastecimiento y saneamiento. <br><br>
+                  span siete cuencas hidrográficas tomando en cuenta los sectores: pecuario, agrícola, reforestamiento, abastecimiento y saneamiento. <br><br>
                 p.mb-0 #[b Productos:]   
-                  span Cosméticos incluyendo shampú, jabón y humectantes, soya, fertilizante, leche, arroz, ganado bovino, biocombustibles, fertilizante nitrogenado, bovinos, caña de azúcar. <br><br> 
+                  span cosméticos incluyendo shampú, jabón y humectantes, soya, fertilizante, leche, arroz, ganado bovino, biocombustibles, fertilizante nitrogenado, bovinos, caña de azúcar. <br><br> 
                 p.mb-0 #[b Servicio:]   
-                  span  Electricidad de hidroeléctrica, exportación de té, consumo de alimentos por una persona. <br><br>
+                  span  electricidad de hidroeléctrica, exportación de té, consumo de alimentos por una persona. <br><br>
                 .row.justify-content-center(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Producto:]   
-                  span Etanol hidratado.   
+                  span etanol hidratado.   
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/3.svg', style="width:650px").m-auto
@@ -111,13 +111,13 @@
                     li
                       |●  Agropecuario, minería, doméstico y energía.                    
                 p.mb-0 #[b Producto:] 
-                  span   Mineral de óxido de cobre y mineral de sulfuro de cobre.                          
+                  span   mineral de óxido de cobre y mineral de sulfuro de cobre.                          
                  
                 .row.justify-content-center(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Plantas o complejos productivos:]   
-                  span Planta de emulsiones, planta multipropósito de productos químicos, planta de preparaciones pigmentarias y planta de fabricación de Masterbatch.
+                  span planta de emulsiones, planta multipropósito de productos químicos, planta de preparaciones pigmentarias y planta de fabricación de Masterbatch.
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/4.svg', style="width:650px").m-auto
@@ -129,12 +129,12 @@
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Productos: ]
-                  span Banana. 
+                  span banana. 
                 .row.justify-content-center(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Productos:]   
-                  span Tubería de PVC, espárrago, helado, electricidad de termoeléctrica y cemento. 
+                  span tubería de PVC, espárrago, helado, electricidad de termoeléctrica y cemento. 
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/5.svg', style="width:650px").m-auto
@@ -162,7 +162,7 @@
                   .col-lg-4
                     h4 WFT:                 
                 p.mb-0 #[b Geográfico:]   
-                  span País. <br><br>
+                  span país. <br><br>
                 p.mb-0 #[b Sector:]   
                 span Trigo, maíz, agua de uso público urbano, servicio de asesoría para el tratamiento de agua. <br><br>
                 p.mb-0 #[b Servicio:]   
@@ -180,7 +180,7 @@
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Producto: ]
-                  span Arroz.
+                  span arroz.
                 
                 .row.justify-content-center(data-aos="fade-right")
                   .col-lg-4
@@ -193,7 +193,7 @@
                     li 
                       |●  Café.
                 p.mb-0 #[b Complejo productivo: ]   
-                  span Planta empacadora de banano.               
+                  span planta empacadora de banano.               
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/8.svg', style="width:650px").m-auto
@@ -212,7 +212,7 @@
                     li 
                       |●  Café.
                 p.mb-0 #[b Complejo productivo: ]   
-                  span Planta empacadora de banano.               
+                  span planta empacadora de banano.               
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/9.svg', style="width:650px").m-auto    
@@ -222,7 +222,7 @@
         figure
           img(src='@/assets/curso/temas/4/10.svg').m-auto(data-aos="fade-right")
       .col
-        p(data-aos="fade-up" style="overflow-x: hidden !important") Para el caso específico de Colombia, también se han llevado a cabo algunos estudios para calcular la huella de agua y huella hídrica de forma general en el país y sus principales sectores económicos, como también a empresas, productos y procesos productivos, como por ejemplo la investigación realizada para ampliación del capítulo sobre huella hídrica incluido en el Estudio Nacional del Agua 2014 (ENA 2014), en coordinación con el Instituto de Hidrología Meteorología y Estudios Ambientales  (IDEAM), la Embajada Suiza, Agencia Suiza para la Cooperación y el Desarrollo (COSUDE), Good Stuff International Latinoamérica y El Caribe (GSI-LAC) y Corporación Centro de Ciencia y Tecnología de Antioquia (CTA); en el cual se realiza la evaluación multisectorial de la huella hídrica en Colombia. Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 5.
+        p(data-aos="fade-up" style="overflow-x: hidden !important") Para el caso específico de Colombia, también se han llevado a cabo algunos estudios para calcular la huella de agua y huella hídrica de forma general en el país y sus principales sectores económicos, como también a empresas, productos y procesos productivos, como por ejemplo la investigación realizada para ampliación del capítulo sobre huella hídrica incluido en el Estudio Nacional del Agua 2014 (ENA 2014), en coordinación con el Instituto de Hidrología Meteorología y Estudios Ambientales  (IDEAM), la Embajada Suiza, Agencia Suiza para la Cooperación y el Desarrollo (COSUDE), Good Stuff International Latinoamérica y El Caribe (GSI-LAC) y Corporación Centro de Ciencia y Tecnología de Antioquia (CTA); en el cual se realiza la evaluación multisectorial de la huella hídrica en Colombia. Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 6.
                               
     .row.justify-content-center.my-4(data-aos="fade-right")
       .col-lg-12
