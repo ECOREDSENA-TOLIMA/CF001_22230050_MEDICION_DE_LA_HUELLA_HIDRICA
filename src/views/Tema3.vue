@@ -39,7 +39,9 @@
 
     .cont_3_1(style="position:relative;")
       .titulo-segundo.color-acento-contenido(style="position:relative")
-        h2#t_3_1 3.1  Water Footprint Network (WFT)  
+        h2#t_3_1 3.1 
+          i Water Footprint Network 
+          | (WFT)  
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-12          
