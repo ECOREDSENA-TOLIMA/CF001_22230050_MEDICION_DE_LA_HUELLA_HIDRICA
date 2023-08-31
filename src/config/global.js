@@ -162,37 +162,37 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Ciclo de vida:',
+      termino: 'Ciclo de vida',
       significado:
         'etapas consecutivas e interrelacionadas de un sistema del producto, desde la adquisición de materia prima o de su generación a partir de recursos naturales hasta la disposición final.',
     },
     {
-      termino: 'Ciclo hidrológico:',
+      termino: 'Ciclo hidrológico',
       significado:
         'conjunto continuo de etapas y cambios que atraviesa el agua en la naturaleza.',
     },
     {
-      termino: 'Huella de Agua:',
+      termino: 'Huella de agua',
       significado:
         'cuantificación de los impactos del uso del agua desde el análisis del ciclo de vida. ',
     },
     {
-      termino: 'Huella hídrica:',
+      termino: 'Huella hídrica',
       significado:
         'indicador del agua dulce usada, alterada y contaminada directa o indirectamente por la humanidad, que permite evaluar los riesgos asociados y desarrollar estrategias para mitigarlos.',
     },
     {
-      termino: 'Huella hídrica azul:',
+      termino: 'Huella hídrica azul',
       significado:
         'volumen de agua dulce empleada (incorporada o evaporada) en un proceso productivo proveniente de los recursos hídricos del planeta, es decir, las aguas superficiales y subterráneas. ',
     },
     {
-      termino: 'Huella hídrica gris:',
+      termino: 'Huella hídrica gris',
       significado:
         'volumen de agua contaminada en la producción de los bienes y servicios o requerida para diluir los contaminantes hasta obtener agua de calidad buena para el ambiente y los humanos.',
     },
     {
-      termino: 'Huella hídrica verde:',
+      termino: 'Huella hídrica verde',
       significado:
         'volumen de agua almacenada en el suelo como humedad proveniente de la precipitación, que no se convierte en escorrentía, y que se incorpora o se evapora en un proceso productivo. ',
     },

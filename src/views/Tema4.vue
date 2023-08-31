@@ -20,7 +20,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-1.mb-lg-0
                 h4 BOLIVIA 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
                 h4 Sistemas de producción: 
@@ -44,7 +44,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 ARGENTINA 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Productos:]  
@@ -69,7 +69,7 @@
                  
                 p Agrícola y pecuario de la provincia de San Luis. 
                 p Para la evaluación se consideraron los sectores residencial, comercial, industrial, público, servicios municipales y actividades de gobierno (administrativas, de servicio y operativas).
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Productos:]   
@@ -81,7 +81,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-1.mb-lg-0
                 h4 BRASIL 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:                 
                 p.mb-0 #[b Geográfico:]   
@@ -90,7 +90,7 @@
                   span cosméticos incluyendo shampú, jabón y humectantes, soya, fertilizante, leche, arroz, ganado bovino, biocombustibles, fertilizante nitrogenado, bovinos, caña de azúcar. <br><br> 
                 p.mb-0 #[b Servicio:]   
                   span  electricidad de hidroeléctrica, exportación de té, consumo de alimentos por una persona. <br><br>
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Producto:]   
@@ -101,7 +101,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 CHILE 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Geográfico:] <br><br>
@@ -110,10 +110,10 @@
                   ul(style="color:black").lista-ul--color.pt-0                
                     li
                       |●  Agropecuario, minería, doméstico y energía.                    
-                p.mb-0 #[b Producto:] 
+                p.mb-2 #[b Producto:] 
                   span   mineral de óxido de cobre y mineral de sulfuro de cobre.                          
                  
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Plantas o complejos productivos:]   
@@ -125,12 +125,12 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 PERÚ 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Productos: ]
                   span banana. 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Productos:]   
@@ -142,7 +142,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 ECUADOR 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Productos: ]
@@ -158,7 +158,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-1.mb-lg-0
                 h4 MÉXICO 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:                 
                 p.mb-0 #[b Geográfico:]   
@@ -176,13 +176,13 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 COSTA RICA 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
                 p.mb-0 #[b Producto: ]
                   span arroz.
                 
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Productos:]   
@@ -201,7 +201,7 @@
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 URUGUAY
-                .row.justify-content-center(data-aos="fade-right")
+                .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT: 
                 p.mb-0 #[b Productos:]   
@@ -222,7 +222,8 @@
         figure
           img(src='@/assets/curso/temas/4/10.svg').m-auto(data-aos="fade-right")
       .col
-        p(data-aos="fade-up" style="overflow-x: hidden !important") Para el caso específico de Colombia, también se han llevado a cabo algunos estudios para calcular la huella de agua y huella hídrica de forma general en el país y sus principales sectores económicos, como también a empresas, productos y procesos productivos, como por ejemplo la investigación realizada para ampliación del capítulo sobre huella hídrica incluido en el Estudio Nacional del Agua 2014 (ENA 2014), en coordinación con el Instituto de Hidrología Meteorología y Estudios Ambientales  (IDEAM), la Embajada Suiza, Agencia Suiza para la Cooperación y el Desarrollo (COSUDE), Good Stuff International Latinoamérica y El Caribe (GSI-LAC) y Corporación Centro de Ciencia y Tecnología de Antioquia (CTA); en el cual se realiza la evaluación multisectorial de la huella hídrica en Colombia. Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 6.
+        p(data-aos="fade-up" style="overflow-x: hidden !important") Para el caso específico de Colombia, también se han llevado a cabo algunos estudios para calcular la huella de agua y huella hídrica de forma general en el país y sus principales sectores económicos, como también a empresas, productos y procesos productivos, como por ejemplo la investigación realizada para ampliación del capítulo sobre huella hídrica incluido en el Estudio Nacional del Agua 2014 (ENA 2014), en coordinación con el Instituto de Hidrología Meteorología y Estudios Ambientales  (IDEAM), la Embajada Suiza, Agencia Suiza para la Cooperación y el Desarrollo (COSUDE), Good Stuff International Latinoamérica y El Caribe (GSI-LAC) y Corporación Centro de Ciencia y Tecnología de Antioquia (CTA); en el cual se realiza la evaluación multisectorial de la huella hídrica en Colombia.
+        p Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 6.
                               
     .row.justify-content-center.my-4(data-aos="fade-right")
       .col-lg-12
@@ -259,7 +260,7 @@
                 p.m-4(style="color: white; text-align: center !important") ISO 14046
             .col(style="background-color:#FFF59D; overflow-x: hidden !important")
               p.m-3 #[b Productos:]   
-                    span Cemento, concreto, papel tisú (higiénico, servilletas, toallas de cocina, pañuelos faciales y productos húmedos), productos para calefacción y refrigeración, metales preciosos (oro), cajas de cartón y snacks de banano.
+                    span cemento, concreto, papel tisú (higiénico, servilletas, toallas de cocina, pañuelos faciales y productos húmedos), productos para calefacción y refrigeración, metales preciosos (oro), cajas de cartón y snacks de banano.
               p.m-3(data-aos="fade-up") Plantas o complejos productivos: fincas de cultivo y beneficio de banano, operación de una planta de productos químicos, operación de una planta de productos lácteos y operación de una planta de producción agroquímicos.
                 br   
 
