@@ -73,7 +73,7 @@
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Productos:]   
-                  span leche y Uva para vino. 
+                  span leche y uva para vino. 
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/2.svg', style="width:650px").m-auto
@@ -166,9 +166,9 @@
                 p.mb-0 #[b Sector:]   
                   span trigo, maíz, agua de uso público urbano, servicio de asesoría para el tratamiento de agua. <br><br>
                 p.mb-0 #[b Servicio:]   
-                span  Avícola, cervecero, cemento. <br><br>
+                  span  avícola, cervecero, cemento. <br><br>
                 p.mb-0 #[b Geográfico:]   
-                span 13 regiones hidrológico administrativas.   
+                  span 13 regiones hidrológico administrativas.   
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/7.svg', style="width:650px").m-auto
