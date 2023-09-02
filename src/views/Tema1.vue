@@ -43,7 +43,7 @@
 
       .cont_1_1(style="position:relative;")
         .titulo-segundo.color-acento-contenido(style="position:relative")
-          h2#t_1_1 1.1  Ciclo hidrológico, usos y calidad.
+          h2#t_1_1 1.1  Ciclo hidrológico, usos y calidad
 
         .row.align-items-center.my-5.col-lg-10.m-auto        
           .col-auto
