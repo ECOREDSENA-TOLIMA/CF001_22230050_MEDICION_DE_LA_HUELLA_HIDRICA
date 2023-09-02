@@ -150,7 +150,17 @@
               .col
               img(src="@/assets/curso/temas/3/7.svg" data-aos="zoom-in-up" alt="“Componentes de la huella hídrica”. En esta imagen se muestras los diferentes componentes de la huella hídrica y su correcta distribución. Dependiendo de la fuente, las extracciones, el total de producción, el comercio y el total de consumo. En la fuente, se presentan las aguas superficiales y subterráneas y la humedad del suelo. En las extracciones, Industriales, agua doméstica, agricultura de riego y agricultura de secano. En la producción, aguas grises, aguas azules y aguas verdes. En el comercio, exportación de agua, reexportación e importación de agua En el consumo, interna (84%) y externa (16%).")
 
-    p.mt-3 Es importante tener en cuenta que esta metodología no se queda solo con calcular un volumen de agua, sino que también analiza y establece estrategias para lograr la sostenibilidad del recurso hídrico. Para lo cual, el proceso de evaluación de la huella hídrica se desarrolla en 4 fases, como se observa a continuación:
+    p.mt-3 Es importante tener en cuenta que esta metodología no se queda solo con calcular un volumen de agua, sino que también analiza y establece estrategias para lograr la sostenibilidad del recurso hídrico. Para lo cual, el proceso de evaluación de la huella hídrica se desarrolla en 4 fases, como se observa en la figura 4.
+
+    .row.justify-content-center.mb-0(data-aos="fade-right" style="padding-top: 50px")
+        .col-lg-11
+          .row.mx-5(data-aos="fade-right")
+            .col-sm-12.col-lg-12
+              .row(data-aos="fade-right")
+                .col-sm-12.col-lg-12
+                  .titulo-sexto.mb-0.color-secundario.mb-1
+                    p.mb-0 #[b Figura 4 ] 
+                      i  Proceso de evaluación de la huella hídrica
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-8
@@ -170,26 +180,7 @@
         h2#t_3_2 3.2  Norma ISO 14046-2014
 
     p.mt-3 La Norma ISO 14046 específicamente no habla de huella hídrica sino el término empleado es “huella de agua”  y la define como la métrica o métricas con las que se cuantifican los impactos ambientales potenciales relacionados con el agua (ISO 14046, 2014); ya que se busca  evaluar el impacto que se generan a este recurso vital, basado en un factor principal que es el ciclo de vida con el objetivo de cuantificar la huella y así lograr plantear medidas para mitigarla, mediante estrategias de sostenibilidad social, económica y ambiental enfocadas al recurso hídrico.  
-    p.mt-3 Por tanto, el ciclo de vida fundamental  permite determinar y evaluar los impactos ocasionados por el hombre al medio ambiente, los ecosistemas y los recursos; pero, es importante resaltar que la huella hídrica total es la suma de las huellas directas e indirectas, porque cada etapa del ciclo de vida cuenta con una huella hídrica directa e indirecta, es decir, se debe considerar en cada etapa y cadena de valor los usos tanto directos como los indirectos de agua. Además, el ciclo de vida puede realizarse para las organizaciones, los procesos, los productos o los servicios, de forma global o puede ser delimitado o por fases como se muestra en la figura 4. 
-
-    .row.justify-content-center.mt-4(data-aos="fade-right")
-        .col-lg-11
-          .row.mx-5(data-aos="fade-right")
-            .col-sm-12.col-lg-12
-              .row(data-aos="fade-right")
-                .col-sm-12.col-lg-12
-                  .titulo-sexto.mb-0.color-secundario.mb-1
-                    p.mb-0 #[b Figura 4] 
-                      i Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hídrica
-
-    .row.justify-content-center.mb-5(data-aos="fade-right")
-        .col-lg-8
-          .row.align-items-center.my-5      
-            .col
-            img(src="@/assets/curso/temas/3/9.svg" data-aos="zoom-in-up" alt="“Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hidrica. En esta imagen se muestra el ciclo de vida del agua en: ACV de la cuna a la puerta Materias primas Industria Procesadora ACV de la cuna a la tumba Distribución Uso/Consumo Disposición Final")    
-            figcaption.mt-3 Nota: tomado del manual de normas ISO 14046 (s.f).
-
-    p.mt-3 De acuerdo a la norma ISO 14046-2014, la metodología planteada para evaluar la huella de agua se basa en las etapas de objetivos y alcance, análisis de inventario y evaluación de impactos. Pero también, se debe tener en cuenta para cada una de las etapas el avance e interpretación de los resultados de acuerdo a los objetivos establecidos, lo cual permite establecer si es necesario realizar algún ajuste o modificación. Según lo muestra la figura 5:
+    p.mt-3 Por tanto, el ciclo de vida fundamental  permite determinar y evaluar los impactos ocasionados por el hombre al medio ambiente, los ecosistemas y los recursos; pero, es importante resaltar que la huella hídrica total es la suma de las huellas directas e indirectas, porque cada etapa del ciclo de vida cuenta con una huella hídrica directa e indirecta, es decir, se debe considerar en cada etapa y cadena de valor los usos tanto directos como los indirectos de agua. Además, el ciclo de vida puede realizarse para las organizaciones, los procesos, los productos o los servicios, de forma global o puede ser delimitado o por fases como se muestra en la figura 5. 
 
     .row.justify-content-center.mt-4(data-aos="fade-right")
         .col-lg-11
@@ -199,6 +190,25 @@
                 .col-sm-12.col-lg-12
                   .titulo-sexto.mb-0.color-secundario.mb-1
                     p.mb-0 #[b Figura 5] 
+                      i Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hídrica
+
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+        .col-lg-8
+          .row.align-items-center.my-5      
+            .col
+            img(src="@/assets/curso/temas/3/9.svg" data-aos="zoom-in-up" alt="“Esquema del enfoque de análisis de ciclo de vida en el cálculo de huella hidrica. En esta imagen se muestra el ciclo de vida del agua en: ACV de la cuna a la puerta Materias primas Industria Procesadora ACV de la cuna a la tumba Distribución Uso/Consumo Disposición Final")    
+            figcaption.mt-3 Nota: tomado del manual de normas ISO 14046 (s.f).
+
+    p.mt-3 De acuerdo a la norma ISO 14046-2014, la metodología planteada para evaluar la huella de agua se basa en las etapas de objetivos y alcance, análisis de inventario y evaluación de impactos. Pero también, se debe tener en cuenta para cada una de las etapas el avance e interpretación de los resultados de acuerdo a los objetivos establecidos, lo cual permite establecer si es necesario realizar algún ajuste o modificación. Según lo muestra la figura 6:
+
+    .row.justify-content-center.mt-4(data-aos="fade-right")
+        .col-lg-11
+          .row.mx-5(data-aos="fade-right")
+            .col-sm-12.col-lg-12
+              .row(data-aos="fade-right")
+                .col-sm-12.col-lg-12
+                  .titulo-sexto.mb-0.color-secundario.mb-1
+                    p.mb-0 #[b Figura 6] 
                       i Etapas para el cálculo de la huella de agua
 
     .row.justify-content-center.mb-2(data-aos="fade-right")
@@ -247,9 +257,7 @@
           h3.text-center Finalidad
           .col-sm-12.col-lg-9.mx-5
             ul(style="color:black").lista-ul--color.pt-4                
-              li
-                |●  Evaluar la magnitud de impactos ambientales
-                |   relacionados con el agua.
+              
               li 
                 |●  Evaluar la magnitud de impactos ambientales
                 |   relacionados con el agua.

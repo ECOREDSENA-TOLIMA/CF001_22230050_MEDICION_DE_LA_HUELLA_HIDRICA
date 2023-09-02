@@ -51,15 +51,15 @@
                 .col-sm-12.col-lg-9
                   ul(style="color:black").lista-ul--color.pt-0                
                     li
-                      |●  Soya 
+                      |●  Soya. 
                     li 
                       |●  Leche a través de diversos sistemas de producción:
                       .col-sm-12.col-lg-9
                         ul(style="color:black").lista-ul--color.pt-0                
                           li
-                            |-  Sistema Pastoril (SP) 
+                            |-  Sistema Pastoril (SP). 
                           li 
-                            |-  Sistema Base Pastoril (SBP) 
+                            |-  Sistema Base Pastoril (SBP). 
                           li 
                             |-  Sistema Base Pastoril Intensivo (SBPI)  Maní.  
                     li 
@@ -104,8 +104,8 @@
                 .row(data-aos="fade-right")
                   .col-lg-4
                     h4 WFT:
-                p.mb-0 #[b Geográfico:] <br><br>
-                p Cuenca del Río Rapel, considerando los sectores:  
+                p.mb-0 #[b Geográfico:] 
+                  span cuenca del Río Rapel, considerando los sectores:  
                 .col-sm-12.col-lg-9
                   ul(style="color:black").lista-ul--color.pt-0                
                     li
@@ -149,7 +149,7 @@
                 .col-sm-12.col-lg-9
                   ul(style="color:black").lista-ul--color.pt-0                
                     li
-                      |●  Banana 
+                      |●  Banana. 
                     li 
                       |●  Rosas. 
               .col-lg-7
@@ -164,7 +164,7 @@
                 p.mb-0 #[b Geográfico:]   
                   span país. <br><br>
                 p.mb-0 #[b Sector:]   
-                span Trigo, maíz, agua de uso público urbano, servicio de asesoría para el tratamiento de agua. <br><br>
+                  span trigo, maíz, agua de uso público urbano, servicio de asesoría para el tratamiento de agua. <br><br>
                 p.mb-0 #[b Servicio:]   
                 span  Avícola, cervecero, cemento. <br><br>
                 p.mb-0 #[b Geográfico:]   
@@ -189,7 +189,7 @@
                 .col-sm-12.col-lg-9
                   ul(style="color:black").lista-ul--color.pt-0                
                     li
-                      |●  Bebidas 
+                      |●  Bebidas. 
                     li 
                       |●  Café.
                 p.mb-0 #[b Complejo productivo: ]   
@@ -208,7 +208,7 @@
                 .col-sm-12.col-lg-9
                   ul(style="color:black").lista-ul--color.pt-0                
                     li
-                      |●  Bebidas 
+                      |●  Bebidas.
                     li 
                       |●  Café.
                 p.mb-0 #[b Complejo productivo: ]   
@@ -223,7 +223,7 @@
           img(src='@/assets/curso/temas/4/10.svg').m-auto(data-aos="fade-right")
       .col
         p(data-aos="fade-up" style="overflow-x: hidden !important") Para el caso específico de Colombia, también se han llevado a cabo algunos estudios para calcular la huella de agua y huella hídrica de forma general en el país y sus principales sectores económicos, como también a empresas, productos y procesos productivos, como por ejemplo la investigación realizada para ampliación del capítulo sobre huella hídrica incluido en el Estudio Nacional del Agua 2014 (ENA 2014), en coordinación con el Instituto de Hidrología Meteorología y Estudios Ambientales  (IDEAM), la Embajada Suiza, Agencia Suiza para la Cooperación y el Desarrollo (COSUDE), Good Stuff International Latinoamérica y El Caribe (GSI-LAC) y Corporación Centro de Ciencia y Tecnología de Antioquia (CTA); en el cual se realiza la evaluación multisectorial de la huella hídrica en Colombia.
-        p Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 6.
+        p Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 7.
                               
     .row.justify-content-center.my-4(data-aos="fade-right")
       .col-lg-12
@@ -232,7 +232,7 @@
             .row(data-aos="fade-right")
               .col-sm-12.col-lg-12
                 .titulo-sexto.mb-0.color-secundario.mb-1
-                  p.mb-0 #[b Figura 6] 
+                  p.mb-0 #[b Figura 7] 
                     i  Estudios realizados en Colombia sobre huella hídrica
 
     .row.justify-content-center.mt-5(data-aos="fade-right")
