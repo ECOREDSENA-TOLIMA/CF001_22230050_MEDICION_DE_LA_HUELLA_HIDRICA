@@ -9,11 +9,11 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.px-5(data-aos="fade-up") Se da la bienvenida al componente formativo denominado “La Huella Hídrica”, el cual <br> hace parte del programa de formación complementaria “Medición de la huella <br> hídrica”, para lo cual se invita a observar el siguiente video:
+    p.px-5(data-aos="fade-up") Se da la bienvenida al componente formativo denominado “La Huella Hídrica”, el cual hace parte del programa de formación complementaria “Medición de la huella hídrica”, para lo cual se invita a observar el siguiente video:
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/eDEqqwEbCsQ" title="Video Huella Hidrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2ePoA4MPq1o" title="Video Huella Hidrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     

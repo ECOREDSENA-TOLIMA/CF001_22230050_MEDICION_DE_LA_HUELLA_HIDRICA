@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Protocolos de pruebas y mediciones',
+        titulo: 'El agua',
         desarrolloContenidos: true,
         subMenu: [
           {
