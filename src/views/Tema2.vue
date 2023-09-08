@@ -39,7 +39,7 @@
         .titulo-segundo.color-acento-contenido(style="position:relative")
           h2#t_2_1 2.1  Evolución del concepto    
 
-        p.mb-5.py-1 El concepto de huella hídrica ha evolucionado con el pasar del tiempo, este término surgió en el año 2002 por Arjen Hoekstra quien es considerado el padre de esta denominación, pero tiene raíces desde el año 1992, a partir del nombre de huella ecológica o también como huella medioambiental acuñado por William Rees y Mathis Wackernagel. El siguiente recurso presenta los cambios nominales y las relaciones con el agua.  
+        p.mb-5.py-1 El concepto de huella hídrica ha evolucionado con el pasar del tiempo, este término surgió en el año 2002 por Arjen Hoekstra quien es considerado el padre de esta denominación, pero tiene raíces desde el año 1992, a partir del nombre de huella ecológica o también como huella medioambiental acuñado por William Rees y Mathis Wackernagel. A continuación se presenta los cambios nominales y las relaciones con el agua.  
       
       .row.justify-content-center(data-aos="fade-right" alt="“Evolución del concepto”. En esta slider se habla sobre la evolución que ha tenido el concepto de huella hídrica al pasar el tiempo, partiendo de huella ecológica en el año 1992 por William Rees y Mathis Wackernagel, agua vital en 1998 por John Anthony Allan, huella hídrica en el 2002 por Arjen Hoekstra y huella de agua en el 2014 por la ISO 14046.")
         .col-lg-10
@@ -49,7 +49,7 @@
               .row.align-items-center.m-1
                 .col-lg-5.mb-4.mb-lg-0
                   h4 Denominación:  huella ecológica - William Rees y Mathis Wackernagel - Año: 1992 
-                  p Es un indicador de sostenibilidad que permite medir el impacto ambiental de la sociedad sobre el entorno, mediante la estimación de los recursos naturales existentes y  los requerimientos para satisfacer las necesidades de la población y la asimilación de los residuos producidos. Se encarga de cuantificar la cantidad de superficie de terreno necesaria para de producir lo que la población consume y absorber los desechos que se generan. 
+                  p Es un indicador de sostenibilidad que permite medir el impacto ambiental de la sociedad sobre el entorno, mediante la estimación de los recursos naturales existentes y  los requerimientos para satisfacer las necesidades de la población y la asimilación de los residuos producidos. 
                   p Se encarga de cuantificar la cantidad de superficie de terreno necesaria para de producir lo que la población consume y absorber los desechos que se generan. 
                 .col-lg-7
                   figure
@@ -69,6 +69,10 @@
                   p Este concepto está ligado al de agua virtual, el cual tiene una aplicación más amplia porque no solo se refiere a la cuantificación  del volumen de agua contenido en cada producto, sino que es un indicador de consumo y contaminación con fines productivos, es decir  que permite conocer la cantidad de agua que aprovecha una persona, un grupo de consumidores, una región, país o toda la humanidad en su utilización diario para producir comida, en procesos industriales, en generación de energía, etc.   
                   p La huella hídrica, se clasifica en azul, verde y gris.
                 .col-lg-7
+                  .col-sm-12.col-lg-12
+                    .titulo-sexto.mb-0.color-secundario.mb-1
+                      p.mb-2 #[b Figura 3.] 
+                        i Clasificación huella hídrica 
                   figure
                     img(src='@/assets/curso/temas/2/5.svg', style="width:650px").m-auto
 

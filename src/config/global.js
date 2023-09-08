@@ -80,7 +80,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Norma ISO 14046-2014',
+            titulo: 'Norma ISO 14046:2014',
             hash: 't_3_2',
           },
         ],
@@ -124,7 +124,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01_22230050.zip',
+        download: 'downloads/cfa_001_22230050.zip',
       },
       {
         icono: 'fas fa-download',
@@ -234,8 +234,8 @@ export default {
     },
     {
       referencia:
-        'ISO 14046:2014 Environmental management -- Water footprint -- Principles, requirements and guidelines. En línea https://www.iso.org/obp/ui#iso:std:iso:14046:ed-1:v1:es',
-      link: '',
+        'ISO 14046:2014 Environmental management -- Water footprint -- Principles, requirements and guidelines.',
+      link: 'https://www.iso.org/obp/ui#iso:std:iso:14046:ed-1:v1:es',
     },
     {
       referencia:

@@ -9,7 +9,9 @@
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-12
-        p.mt-5 A nivel mundial se han adelantado diversos estudios para la cuantificación del uso y contaminación del agua, ya sea mediante la metodología de la ISO 14046:2014 o la Water Footprint Network (WFT), pero es importante resaltar que  independientemente de la metodología empleada el sector agropecuario es uno de los más analizados, lo que tiene gran lógica, ya que según la UNESCO (citada por Martínez, 2016)  aproximadamente el 67% del agua que se extrae en el mundo es empleada para este importante sector de la economía, es decir para la producción agrícola y la tendencia es al aumento. 
+        p.mt-5 A nivel mundial se han adelantado diversos estudios para la cuantificación del uso y contaminación del agua, ya sea mediante la metodología de la ISO 14046:2014 o la 
+          i Water Footprint Network 
+          | (WFT), pero es importante resaltar que  independientemente de la metodología empleada el sector agropecuario es uno de los más analizados, lo que tiene gran lógica, ya que según la UNESCO (citada por Martínez, 2016)  aproximadamente el 67 % del agua que se extrae en el mundo es empleada para este importante sector de la economía, es decir para la producción agrícola y la tendencia es al aumento. 
         p.mt-5 Algunos de estos estudios están referenciados en el recurso a continuación:
 
     .row.justify-content-center(data-aos="fade-right" alt= "“Estudios HH a nivel mundial”. En esta slider, se presentan algunos países y la manera como usan la metodología WFT o la metodología ISO 14046. Los países de las tarjetas son: ⦁ Argentina ⦁ Bolivia ⦁ Brasil ⦁ Chile ⦁ Perú  ⦁ Ecuador ⦁ México ⦁ Costa Rica ⦁ Uruguay. Donde se puede evidenciar que:  Argentina, Brasil, Chile, Perú, México, Costa Rica aplican ambas metodologías. Mientras que Bolivia, Ecuador y Uruguay solo aplican la WFT.")
@@ -35,7 +37,7 @@
                     li 
                       |●  Energizantes. 
                 p.mb-0 #[b Geográfico:]   
-                  span ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. Ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. <br><br>
+                  span ciudades La Paz, Quito, Lima, Santa Cruz de la Sierra, Guayaquil, Fortaleza, Loja, Santa Cruz de Galápagos, Recife, Cali y Tarija. <br><br>
                 p Para la evaluación se consideraron los sectores residencial, comercial, industrial, público, servicios municipales y actividades de gobierno (administrativas, de servicio y operativas).
               .col-lg-7
                 figure
@@ -67,7 +69,6 @@
                 p.mb-0 #[b Sectores:] 
                   span agrícola y pecuario de la provincia de San Luis.                          
                  
-                p Agrícola y pecuario de la provincia de San Luis. 
                 p Para la evaluación se consideraron los sectores residencial, comercial, industrial, público, servicios municipales y actividades de gobierno (administrativas, de servicio y operativas).
                 .row(data-aos="fade-right")
                   .col-lg-4
@@ -117,7 +118,8 @@
                   .col-lg-4
                     h4 ISO 14046
                 p.mb-0 #[b Plantas o complejos productivos:]   
-                  span planta de emulsiones, planta multipropósito de productos químicos, planta de preparaciones pigmentarias y planta de fabricación de Masterbatch.
+                  span planta de emulsiones, planta multipropósito de productos químicos, planta de preparaciones pigmentarias y planta de fabricación de 
+                    i Masterbatch.
               .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/4/4.svg', style="width:650px").m-auto
@@ -223,7 +225,7 @@
           img(src='@/assets/curso/temas/4/10.svg').m-auto(data-aos="fade-right")
       .col
         p(data-aos="fade-up" style="overflow-x: hidden !important") Para el caso específico de Colombia, también se han llevado a cabo algunos estudios para calcular la huella de agua y huella hídrica de forma general en el país y sus principales sectores económicos, como también a empresas, productos y procesos productivos, como por ejemplo la investigación realizada para ampliación del capítulo sobre huella hídrica incluido en el Estudio Nacional del Agua 2014 (ENA 2014), en coordinación con el Instituto de Hidrología Meteorología y Estudios Ambientales  (IDEAM), la Embajada Suiza, Agencia Suiza para la Cooperación y el Desarrollo (COSUDE), Good Stuff International Latinoamérica y El Caribe (GSI-LAC) y Corporación Centro de Ciencia y Tecnología de Antioquia (CTA); en el cual se realiza la evaluación multisectorial de la huella hídrica en Colombia.
-        p Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 7.
+        p Resultados por subzonas hidrográficas en el marco del Estudio Nacional del Agua 2014, donde se realiza la cuantificación para los sectores agropecuario, doméstico, industrial, energético y petrolero. Otros estudios adelantados en Colombia se pueden analizar en la figura 8.
                               
     .row.justify-content-center.my-4(data-aos="fade-right")
       .col-lg-12
@@ -232,7 +234,7 @@
             .row(data-aos="fade-right")
               .col-sm-12.col-lg-12
                 .titulo-sexto.mb-0.color-secundario.mb-1
-                  p.mb-0 #[b Figura 7] 
+                  p.mb-0 #[b Figura 8] 
                     i  Estudios realizados en Colombia sobre huella hídrica
 
     .row.justify-content-center.mt-5(data-aos="fade-right")

@@ -36,9 +36,9 @@
           .col
             p(data-aos="fade-up" style="overflow-x: hidden !important") En el caso específico de Colombia, el país cuenta con un patrimonio hídrico importante entre humedales, ríos, lagunas, lagos, ciénagas, arrecifes, y estuarios, etc., siendo uno de los países con mayor oferta hídrica natural, lo que hace que sea catalogado como potencia hídrica mundial como lo indica la principal organización de conservación de la naturaleza a nivel global, WWF.
             .cajon.p-2.mt-0.col-lg-12.m-auto.pb-0(style="background-color:#FFF59D; overflow-x: hidden !important")
-              p.mb-2.py-2(style="overflow-x: hidden !important") Pero esta riqueza hídrica principalmente por la acción irresponsable y desmesurada del hombre en búsqueda del desarrollo viene siendo afectada y contaminada, presentando alteraciones físicas, químicas y biológicas que generan una modificación en su composición perdiendo sus características naturales y variaciones en el ciclo natural del agua, el cual es denominado ciclo hidrológico que permite identificar la ubicación, distribución y circulación del agua en el planeta.
+              p.mb-2.py-2(style="overflow-x: hidden !important") Pero esta riqueza hídrica, principalmente por la acción irresponsable y desmesurada del hombre en búsqueda del desarrollo, viene siendo afectada y contaminada, presentando alteraciones físicas, químicas y biológicas que generan una modificación en su composición, perdiendo sus características naturales y variaciones en el ciclo natural del agua, el cual es denominado ciclo hidrológico que permite identificar la ubicación, distribución y circulación del agua en el planeta.
 
-        p.mt-5 Por tanto, es primordial para conservar la vida ya que los seres humanos son dependientes de este líquido vital, realizar uso sostenible una adecuación gestión del recurso hídrico, donde haya una verdadera conciencia sobre los efectos e impactos negativos que se generan sobre el agua por el estilo de vida los productos que se consumen y las formas de producción actual.
+        p.mt-5 Por tanto, es primordial para conservar la vida, ya que los seres humanos son dependientes de este líquido vital, realizar uso sostenible, una adecuada gestión del recurso hídrico, donde haya una verdadera conciencia sobre los efectos e impactos negativos que se generan sobre el agua por el estilo de vida los productos que se consumen y las formas de producción actual.
         Separador.mt-0
 
       .cont_1_1(style="position:relative;")
@@ -50,7 +50,7 @@
             figure
               img(src='@/assets/curso/temas/1/3.svg').m-auto(data-aos="fade-right")
           .col
-            p(data-aos="fade-up") El agua es un recurso finito, que además de ser esencial para la vida, es fundamental para el desarrollo de las sociedades; esté líquido vital tiene gran variedad de usos tanto naturales (mantenimiento de ríos, plantas, ecosistemas, transporte de sedimentos, etc.) como antrópicos (aprovisionamiento, industria, agricultura, ganadería, recreación, domésticos, minería, energía, etc.). Usos que son necesarios identificar y conocer, para así lograr hacer un uso sustentable de este líquido vital, donde se conozca y tenga en cuenta todas y cada una de las fases del ciclo hidrológico. 
+            p(data-aos="fade-up") El agua es un recurso finito, que además de ser esencial para la vida, es fundamental para el desarrollo de las sociedades; esté líquido vital tiene gran variedad de usos tanto naturales (mantenimiento de ríos, plantas, ecosistemas, transporte de sedimentos, etc.) como antrópicos (aprovisionamiento, industria, agricultura, ganadería, recreación, domésticos, minería, energía, etc.), los cuales son necesarios identificar y conocer, para así lograr hacer un uso sustentable de este líquido vital, donde se conozca y tenga en cuenta todas y cada una de las fases del ciclo hidrológico. 
             p(data-aos="fade-up") El agua está en continuo movimiento y circulación, cambia de un estado (líquido, sólido y gaseoso) pero no disminuye ni aumenta su cantidad; de forma continua se encuentra transitando entre los diversos depósitos existentes en la atmósfera, lo que ocasiona que su funcionamiento se da a través de un ciclo denominado ciclo hidrológico, el cual es un proceso que incluye las precipitaciones, evaporación, escorrentía e infiltración. Como se puede observar a en la siguiente figura:
             
     .row.justify-content-center.mb-5(data-aos="fade-right")
@@ -67,7 +67,7 @@
       .col
       img(src="@/assets/curso/temas/1/4.svg" data-aos="zoom-in-up" alt="“Ciclo Hidrológico”. En la imagen animada se muestra el ciclo del agua en cada una de sus fases. ⦁ Precipitación ⦁ Infiltración ⦁ Escorrentía ⦁ Evaporación.")
 
-    p.my-5 A pesar de que la cantidad de agua existente es constante, la distribución en el tiempo varía y aumenta el deterioro en la calidad  del producto, debido al crecimiento demográfico e industrial y  de las actividades que se desarrollan se hace indispensable conocer la relación directa que hay entre el uso del agua y los ecosistemas que la proporcionan, para así lograr que el agua dulce sea eficientemente distribuida y utilizada, preservando las fuentes naturales o lugares de captación y realizando los tratamientos requeridos para la eliminación de aguas contaminadas y desechos.
+    p.my-5 A pesar de que la cantidad de agua existente es constante, la distribución en el tiempo varía y aumenta el deterioro en la calidad  del producto, debido al crecimiento demográfico e industrial y  de las actividades que se desarrollan, se hace indispensable conocer la relación directa que hay entre el uso del agua y los ecosistemas que la proporcionan, para así lograr que el agua dulce sea eficientemente distribuida y utilizada, preservando las fuentes naturales o lugares de captación y realizando los tratamientos requeridos para la eliminación de aguas contaminadas y desechos.
 
   
     .tarjeta--container.row.mb-5
@@ -129,7 +129,7 @@
           th Decreto 155 de 2004
           td Sobretasas por utilización de agua.
         tr
-          th Sobretasas por utilización de agua
+          th Decreto 1433 de 2004
           td Reglamenta planes de saneamiento y manejo de vertimientos.
         tr
           th Decreto 4742 de 2005 
