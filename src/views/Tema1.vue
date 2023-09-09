@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Protocolos de pruebas y mediciones
+      h1 El agua
     p.mt-5(data-aos="fade-up") El agua es la fuente y el motor indispensable de vida en el planeta, esta cubre aproximadamente el 75 % de su superficie y como se observa en la figura 1 la gran mayoría de esta agua es salada y pertenece a los mares y océanos, tan solo el 2,5 % es agua dulce, de la cual  proveniente el 80 % de las regiones polares, el 19 % de agua subterránea y tan solo el 1 % de agua de superficie accesible la cual según Cirelli, A. F. (2012), se encuentra principalmente en lagos (52 %), humedales (38 %) y ríos y vapor atmosféricos (10 %). 
 
     .row.mx-5(data-aos="fade-right")
